@@ -1,5 +1,7 @@
 # PricePilot: Pricing & Business Case Simulator
 
+**[▶ Live demo](https://pricepilot-anamika.streamlit.app/)**: try the dashboard in your browser, no install needed.
+
 **Turns a customer pricing survey into a recommended price, a 36-month business case and a risk view, so "what should we charge?" gets an evidence-based answer instead of a guess.**
 
 Pricing is one of the highest-leverage decisions a PM makes, and one of the least rigorous. Teams copy a competitor, pick a round number, or ask "would you pay ₹99?", when people's stated intent overstates what they will actually do. PricePilot combines two standard willingness-to-pay methods with unit economics and Monte Carlo risk analysis. It then writes a recommendation a leadership team can challenge line by line.
