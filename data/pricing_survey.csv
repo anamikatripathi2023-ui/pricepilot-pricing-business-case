@@ -1,0 +1,1201 @@
+respondent_id,segment,city_tier,orders_per_month,vw_too_cheap,vw_cheap,vw_expensive,vw_too_expensive,gg_49,gg_79,gg_99,gg_129,gg_149,gg_199
+S0001,family,Tier 1,2,35,95,150,235,definitely,definitely,probably,probably not,probably not,definitely not
+S0002,young professional,Tier 2,4,55,115,210,310,definitely,definitely,definitely,probably,maybe,probably
+S0003,young professional,Tier 1,5,35,55,100,150,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0004,student,Tier 1,1,20,30,60,85,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0005,young professional,Tier 1,6,35,95,155,230,definitely,definitely,definitely,definitely,probably not,definitely not
+S0006,family,Tier 2,6,90,190,310,465,definitely,definitely,definitely,probably,maybe,definitely
+S0007,young professional,Tier 1,5,35,65,115,170,definitely,probably,maybe,probably not,probably not,definitely not
+S0008,student,Tier 1,1,10,35,55,75,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0009,family,Tier 2,8,30,70,120,195,definitely,definitely,probably,probably not,probably not,definitely not
+S0010,young professional,Tier 1,4,30,65,130,170,definitely,definitely,definitely,probably not,definitely not,definitely not
+S0011,student,Tier 1,2,20,35,45,85,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0012,young professional,Tier 2,6,40,65,115,165,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0013,family,Tier 1,9,115,155,335,445,definitely,definitely,definitely,definitely,probably,probably
+S0014,student,Tier 1,3,20,45,70,105,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0015,family,Tier 1,7,40,75,165,220,definitely,definitely,probably,maybe,probably not,definitely not
+S0016,young professional,Tier 1,5,40,65,135,195,definitely,probably,maybe,probably,probably not,definitely not
+S0017,student,Tier 1,1,25,65,115,155,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0018,student,Tier 1,1,20,40,75,105,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0019,family,Tier 1,5,65,125,200,240,definitely,definitely,definitely,probably not,maybe,maybe
+S0020,young professional,Tier 1,9,70,150,235,275,definitely,definitely,definitely,definitely,maybe,probably not
+S0021,young professional,Tier 1,1,15,35,60,95,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0022,young professional,Tier 1,2,100,185,295,375,definitely,definitely,definitely,definitely,probably,probably
+S0023,young professional,Tier 2,4,30,90,145,165,definitely,definitely,probably,maybe,probably not,definitely not
+S0024,student,Tier 1,3,25,45,70,100,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0025,student,Tier 1,3,20,35,50,70,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0026,young professional,Tier 1,7,55,115,260,365,definitely,definitely,definitely,definitely,maybe,probably
+S0027,family,Tier 1,2,40,125,180,245,definitely,definitely,probably,maybe,probably,definitely not
+S0028,young professional,Tier 1,8,45,65,140,210,definitely,definitely,maybe,maybe,maybe,definitely not
+S0029,young professional,Tier 1,10,45,90,140,175,definitely,definitely,definitely,probably not,definitely not,definitely not
+S0030,student,Tier 1,2,20,35,70,100,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S0031,family,Tier 1,8,90,140,245,345,definitely,definitely,definitely,definitely,probably,probably not
+S0032,student,Tier 1,6,25,40,65,95,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0033,young professional,Tier 1,6,45,70,120,195,definitely,probably,probably,probably not,definitely not,definitely not
+S0034,young professional,Tier 1,9,75,145,235,330,definitely,definitely,definitely,definitely,definitely,probably
+S0035,young professional,Tier 1,9,80,150,225,345,definitely,definitely,definitely,maybe,definitely,maybe
+S0036,young professional,Tier 1,6,45,100,145,215,definitely,definitely,definitely,definitely,probably not,definitely not
+S0037,student,Tier 1,1,20,35,70,80,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0038,student,Tier 1,5,25,55,80,125,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0039,young professional,Tier 2,2,10,35,65,85,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0040,student,Tier 2,2,25,45,75,95,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0041,student,Tier 2,4,25,70,110,135,probably,probably,probably not,definitely not,definitely not,definitely not
+S0042,student,Tier 1,4,20,30,60,80,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0043,family,Tier 2,8,50,70,130,175,definitely,definitely,definitely,probably not,maybe,definitely not
+S0044,young professional,Tier 2,5,40,75,120,170,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0045,young professional,Tier 1,3,40,80,145,190,definitely,definitely,definitely,probably not,maybe,definitely not
+S0046,young professional,Tier 1,10,65,105,190,245,definitely,definitely,definitely,probably,maybe,definitely not
+S0047,family,Tier 1,15,65,190,250,400,definitely,definitely,definitely,definitely,definitely,probably
+S0048,student,Tier 1,4,30,65,95,120,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0049,young professional,Tier 1,5,70,115,255,320,definitely,definitely,definitely,definitely,definitely,definitely not
+S0050,student,Tier 1,4,40,75,110,140,definitely,maybe,probably not,probably not,definitely not,definitely not
+S0051,young professional,Tier 1,4,25,45,90,115,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0052,family,Tier 1,11,75,125,225,345,definitely,definitely,definitely,definitely,probably,maybe
+S0053,young professional,Tier 1,12,65,160,275,375,definitely,definitely,definitely,definitely,probably,probably
+S0054,student,Tier 2,5,45,105,185,215,definitely,probably,probably,probably not,maybe,definitely not
+S0055,young professional,Tier 1,2,35,65,110,150,definitely,definitely,definitely not,probably not,definitely not,definitely not
+S0056,young professional,Tier 1,4,25,75,135,185,probably,definitely,probably,probably not,probably not,definitely not
+S0057,family,Tier 1,8,120,230,295,485,definitely,definitely,definitely,definitely,definitely,definitely
+S0058,student,Tier 1,5,15,25,45,70,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0059,student,Tier 1,1,10,15,40,50,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0060,student,Tier 2,2,15,30,40,55,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0061,young professional,Tier 2,4,35,70,120,165,definitely,probably,definitely not,probably not,definitely not,definitely not
+S0062,family,Tier 1,8,50,115,160,210,definitely,definitely,probably,definitely,maybe,definitely not
+S0063,young professional,Tier 1,8,55,110,175,225,definitely,definitely,maybe,probably,maybe,probably not
+S0064,young professional,Tier 1,5,45,80,140,200,definitely,probably,maybe,maybe,probably not,definitely not
+S0065,student,Tier 1,4,20,45,85,125,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0066,student,Tier 1,4,15,45,65,90,probably not,probably not,definitely not,definitely not,definitely not,definitely not
+S0067,young professional,Tier 1,5,45,85,135,190,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0068,young professional,Tier 1,4,35,65,110,140,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0069,family,Tier 1,7,35,65,115,140,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0070,young professional,Tier 2,6,40,55,115,145,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S0071,student,Tier 1,2,30,70,115,140,definitely,probably,maybe,probably not,definitely not,definitely not
+S0072,student,Tier 1,2,20,50,85,110,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0073,young professional,Tier 1,4,75,145,220,280,definitely,definitely,definitely,definitely,definitely,definitely
+S0074,student,Tier 1,6,35,60,120,155,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S0075,family,Tier 2,4,30,60,110,150,definitely,probably,probably not,probably not,definitely not,definitely not
+S0076,family,Tier 2,2,20,55,95,140,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0077,family,Tier 1,2,25,80,110,160,definitely,definitely,maybe,probably not,probably not,definitely not
+S0078,student,Tier 1,1,30,65,95,140,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0079,family,Tier 2,4,45,75,175,240,definitely,definitely,definitely,probably not,probably not,definitely not
+S0080,student,Tier 1,6,45,65,135,190,definitely,definitely,definitely,probably not,probably not,definitely not
+S0081,student,Tier 2,2,10,20,40,50,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0082,young professional,Tier 1,3,30,85,115,195,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0083,young professional,Tier 2,7,45,85,170,260,definitely,definitely,definitely,maybe,maybe,probably not
+S0084,family,Tier 1,6,65,105,200,280,definitely,definitely,definitely,definitely,probably not,probably
+S0085,young professional,Tier 1,3,30,50,90,125,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0086,young professional,Tier 1,3,30,50,90,135,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0087,young professional,Tier 1,9,60,110,190,240,definitely,definitely,definitely,probably not,probably,definitely not
+S0088,family,Tier 2,7,105,200,300,470,definitely,definitely,definitely,definitely,definitely,maybe
+S0089,family,Tier 1,4,30,70,95,130,probably,probably,probably not,definitely not,definitely not,definitely not
+S0090,student,Tier 2,2,15,40,60,85,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0091,family,Tier 2,3,30,50,100,130,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0092,young professional,Tier 1,5,75,150,225,290,definitely,definitely,definitely,maybe,probably,probably
+S0093,student,Tier 1,2,15,30,50,70,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0094,family,Tier 1,2,15,40,70,110,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0095,family,Tier 1,6,85,185,300,410,definitely,definitely,definitely,definitely,definitely,probably
+S0096,family,Tier 1,7,70,100,200,325,definitely,definitely,definitely,probably,probably,probably not
+S0097,young professional,Tier 1,4,50,95,145,230,definitely,probably,definitely,maybe,probably not,definitely not
+S0098,student,Tier 1,3,35,70,100,155,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0099,student,Tier 1,1,15,30,55,90,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0100,family,Tier 2,3,35,50,95,115,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0101,family,Tier 1,5,50,110,175,260,definitely,definitely,probably,maybe,probably not,probably not
+S0102,student,Tier 2,4,15,25,40,75,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0103,family,Tier 1,6,40,125,190,235,definitely,probably,definitely,maybe,maybe,probably not
+S0104,student,Tier 2,4,25,40,65,95,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0105,young professional,Tier 2,10,50,105,160,225,definitely,definitely,definitely,probably,maybe,definitely not
+S0106,young professional,Tier 1,8,45,125,200,245,definitely,definitely,definitely,maybe,maybe,probably not
+S0107,student,Tier 1,8,30,50,115,145,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0108,student,Tier 2,2,25,60,90,125,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0109,young professional,Tier 1,3,25,60,85,145,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0110,young professional,Tier 2,1,30,60,95,160,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0111,young professional,Tier 2,10,60,115,195,300,definitely,definitely,definitely,definitely,definitely,probably
+S0112,young professional,Tier 1,3,60,145,245,405,definitely,definitely,definitely,definitely,definitely,probably
+S0113,young professional,Tier 2,4,35,80,145,220,definitely,definitely,maybe,maybe,probably not,definitely not
+S0114,young professional,Tier 1,3,35,80,135,190,definitely,probably,probably,maybe,definitely not,definitely not
+S0115,family,Tier 2,3,20,40,85,120,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0116,student,Tier 1,5,20,45,90,100,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0117,young professional,Tier 1,4,50,130,185,330,definitely,definitely,definitely,definitely,definitely,maybe
+S0118,young professional,Tier 1,6,45,80,125,170,definitely,definitely,probably,probably not,probably not,definitely not
+S0119,student,Tier 1,2,10,25,40,60,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0120,family,Tier 1,6,75,130,205,355,definitely,definitely,definitely,probably,definitely,probably
+S0121,young professional,Tier 1,3,45,105,160,190,definitely,probably,definitely,maybe,probably,definitely not
+S0122,family,Tier 1,5,55,130,190,325,definitely,definitely,definitely,definitely,maybe,probably
+S0123,student,Tier 1,7,15,40,80,105,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0124,young professional,Tier 1,3,35,85,170,200,definitely,definitely,definitely,maybe,probably not,probably not
+S0125,family,Tier 1,9,40,80,125,190,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S0126,family,Tier 1,8,85,175,265,380,definitely,definitely,definitely,definitely,definitely,probably
+S0127,young professional,Tier 1,5,45,95,225,275,definitely,definitely,definitely,definitely,maybe,probably
+S0128,young professional,Tier 1,8,40,70,105,190,probably,definitely,maybe,definitely not,definitely not,definitely not
+S0129,young professional,Tier 1,4,25,65,95,120,definitely,definitely,definitely not,definitely not,definitely not,definitely not
+S0130,young professional,Tier 2,5,35,65,140,175,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0131,young professional,Tier 1,5,55,115,190,300,definitely,definitely,probably,definitely,probably,definitely not
+S0132,young professional,Tier 1,8,75,170,255,350,definitely,definitely,definitely,definitely,definitely,maybe
+S0133,family,Tier 1,7,35,85,130,185,definitely,definitely,maybe,probably,definitely not,definitely not
+S0134,student,Tier 1,4,35,85,155,235,definitely,definitely,maybe,maybe,maybe,definitely not
+S0135,young professional,Tier 1,5,30,70,110,145,probably,probably,probably not,probably not,definitely not,definitely not
+S0136,family,Tier 1,4,40,80,135,195,definitely,probably,probably,probably not,definitely not,definitely not
+S0137,young professional,Tier 1,5,30,60,115,165,definitely,maybe,probably not,probably not,definitely not,definitely not
+S0138,student,Tier 1,2,35,55,110,125,definitely,probably,maybe,probably not,definitely not,definitely not
+S0139,young professional,Tier 1,9,55,90,190,265,definitely,definitely,definitely,maybe,probably not,definitely not
+S0140,student,Tier 1,6,30,70,110,160,definitely,probably not,maybe,definitely not,definitely not,definitely not
+S0141,family,Tier 2,7,35,100,170,245,definitely,definitely,maybe,probably not,probably not,probably not
+S0142,young professional,Tier 2,5,45,85,155,205,definitely,definitely,definitely,probably,probably not,definitely not
+S0143,young professional,Tier 2,8,25,55,100,135,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0144,family,Tier 2,6,25,40,80,140,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0145,student,Tier 1,4,20,35,55,95,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0146,student,Tier 1,1,15,25,45,75,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0147,young professional,Tier 1,3,50,110,230,260,definitely,definitely,definitely,probably,definitely,probably not
+S0148,young professional,Tier 1,3,40,75,130,180,definitely,definitely,probably,definitely not,definitely not,definitely not
+S0149,young professional,Tier 1,5,50,105,140,195,definitely,probably,definitely,probably not,probably not,definitely not
+S0150,student,Tier 1,2,45,90,120,215,definitely,definitely,probably,probably not,probably not,definitely not
+S0151,student,Tier 1,2,20,45,70,105,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0152,young professional,Tier 2,9,25,55,110,155,probably,definitely,probably not,definitely not,definitely not,definitely not
+S0153,family,Tier 1,4,45,85,135,215,definitely,definitely,probably,probably not,probably not,definitely not
+S0154,student,Tier 1,6,50,65,135,185,definitely,probably,maybe,probably,probably not,definitely not
+S0155,young professional,Tier 2,4,20,40,80,100,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0156,student,Tier 1,2,15,30,65,85,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0157,family,Tier 2,10,50,120,215,345,definitely,definitely,definitely,probably,probably,maybe
+S0158,family,Tier 2,4,25,70,110,145,definitely,probably,maybe,probably not,definitely not,definitely not
+S0159,student,Tier 1,8,70,130,180,275,definitely,definitely,definitely,maybe,probably,probably not
+S0160,family,Tier 1,4,60,125,200,265,definitely,definitely,definitely,maybe,probably,probably not
+S0161,young professional,Tier 1,5,50,100,130,225,definitely,definitely,probably,probably not,probably not,definitely not
+S0162,young professional,Tier 2,4,25,50,85,115,definitely,definitely not,probably not,definitely not,definitely not,definitely not
+S0163,student,Tier 1,7,45,70,120,165,definitely,probably,probably,probably,probably not,definitely not
+S0164,student,Tier 2,1,15,25,50,55,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0165,student,Tier 2,1,15,30,55,85,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0166,student,Tier 1,6,30,55,115,170,definitely,probably,maybe,probably not,definitely not,definitely not
+S0167,young professional,Tier 2,7,50,90,145,205,definitely,definitely,definitely,probably not,maybe,definitely not
+S0168,student,Tier 2,2,10,25,45,60,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0169,student,Tier 2,3,30,65,85,155,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0170,student,Tier 2,7,20,45,75,90,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0171,family,Tier 2,5,65,120,180,305,definitely,definitely,definitely,probably,maybe,probably not
+S0172,young professional,Tier 1,7,70,115,215,320,definitely,definitely,definitely,probably,maybe,maybe
+S0173,family,Tier 1,4,45,110,180,240,definitely,definitely,probably,definitely,maybe,maybe
+S0174,young professional,Tier 1,4,40,60,135,175,definitely,definitely,probably,maybe,probably not,definitely not
+S0175,young professional,Tier 1,8,60,130,215,310,definitely,definitely,definitely,definitely,definitely,probably not
+S0176,young professional,Tier 1,6,40,45,90,135,definitely,probably,maybe,probably not,definitely not,definitely not
+S0177,family,Tier 1,3,30,55,90,135,maybe,maybe,definitely not,definitely not,definitely not,definitely not
+S0178,young professional,Tier 2,7,60,95,155,245,definitely,definitely,maybe,probably,maybe,definitely not
+S0179,family,Tier 1,11,50,85,150,210,definitely,maybe,probably,maybe,probably not,definitely not
+S0180,young professional,Tier 1,2,50,75,140,180,definitely,definitely,definitely,maybe,probably not,definitely not
+S0181,student,Tier 1,3,20,35,55,80,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S0182,young professional,Tier 2,12,60,110,150,230,definitely,definitely,definitely,probably not,probably not,definitely not
+S0183,student,Tier 1,3,20,35,70,100,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0184,young professional,Tier 2,6,50,95,145,205,definitely,probably,definitely,probably not,probably not,definitely not
+S0185,young professional,Tier 2,5,45,130,195,305,definitely,definitely,definitely,probably,maybe,probably not
+S0186,young professional,Tier 1,5,40,50,110,145,definitely,probably,probably not,probably not,definitely not,definitely not
+S0187,family,Tier 1,9,145,280,445,730,definitely,definitely,definitely,definitely,definitely,definitely
+S0188,student,Tier 1,3,20,35,65,90,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0189,young professional,Tier 2,4,35,75,140,170,definitely,maybe,maybe,probably not,probably not,definitely not
+S0190,family,Tier 1,4,35,70,90,125,definitely,probably not,maybe,definitely not,definitely not,definitely not
+S0191,young professional,Tier 2,5,30,55,95,145,definitely,probably not,probably not,probably not,definitely not,definitely not
+S0192,student,Tier 1,2,20,35,65,100,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0193,young professional,Tier 1,7,40,110,190,235,definitely,definitely,definitely,maybe,probably,probably not
+S0194,family,Tier 1,2,55,80,165,250,definitely,definitely,definitely,maybe,probably not,definitely not
+S0195,young professional,Tier 1,2,30,65,110,180,probably,probably,maybe,definitely not,probably not,definitely not
+S0196,young professional,Tier 1,4,60,120,165,235,definitely,probably,probably,maybe,maybe,definitely not
+S0197,young professional,Tier 1,2,25,45,95,130,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0198,family,Tier 1,3,40,95,130,200,definitely,definitely,definitely,maybe,probably not,definitely not
+S0199,young professional,Tier 1,4,35,95,175,250,definitely,definitely,probably,maybe,maybe,definitely not
+S0200,family,Tier 2,7,35,55,100,145,definitely,definitely,probably,definitely not,definitely not,definitely not
+S0201,student,Tier 1,2,10,30,45,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0202,student,Tier 1,2,20,35,60,85,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0203,student,Tier 1,2,20,30,55,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0204,young professional,Tier 2,6,30,50,105,145,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0205,student,Tier 1,2,20,45,65,105,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0206,young professional,Tier 2,3,25,60,100,130,probably,probably,maybe,definitely not,definitely not,definitely not
+S0207,young professional,Tier 1,4,45,80,115,180,definitely,probably,definitely,probably not,definitely not,definitely not
+S0208,student,Tier 2,2,10,25,45,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0209,student,Tier 1,6,30,65,85,125,definitely,maybe,definitely not,probably not,definitely not,definitely not
+S0210,student,Tier 1,3,15,40,70,85,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0211,young professional,Tier 2,6,45,85,125,170,definitely,definitely,probably not,probably not,probably not,definitely not
+S0212,family,Tier 1,8,95,140,260,415,definitely,definitely,definitely,definitely,probably,probably
+S0213,student,Tier 1,3,15,35,55,85,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S0214,young professional,Tier 1,5,25,65,115,165,definitely,definitely,probably not,definitely not,definitely not,definitely not
+S0215,family,Tier 1,9,55,150,195,305,definitely,definitely,definitely,definitely,probably,maybe
+S0216,young professional,Tier 1,7,70,175,260,345,definitely,definitely,definitely,probably,definitely,maybe
+S0217,student,Tier 1,7,15,25,45,60,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0218,family,Tier 2,5,20,35,65,85,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0219,family,Tier 1,10,75,135,215,330,definitely,definitely,definitely,definitely,probably,maybe
+S0220,young professional,Tier 2,1,30,50,90,120,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0221,young professional,Tier 1,4,50,80,155,175,definitely,definitely,probably,probably,probably not,definitely not
+S0222,young professional,Tier 1,6,75,155,215,310,definitely,definitely,definitely,definitely,probably,maybe
+S0223,young professional,Tier 1,4,60,160,255,360,definitely,definitely,definitely,definitely,definitely,maybe
+S0224,family,Tier 1,4,40,110,165,270,definitely,definitely,definitely,probably,probably,probably not
+S0225,student,Tier 1,1,15,25,50,70,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0226,family,Tier 1,2,30,55,80,120,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0227,student,Tier 2,4,25,50,85,115,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0228,student,Tier 1,2,20,50,65,110,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0229,family,Tier 1,6,55,140,210,335,definitely,definitely,definitely,definitely,definitely,maybe
+S0230,family,Tier 1,6,35,95,150,210,definitely,definitely,definitely,maybe,probably not,probably not
+S0231,student,Tier 1,5,15,35,65,75,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0232,student,Tier 1,1,15,25,50,75,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0233,student,Tier 1,5,30,60,100,140,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0234,young professional,Tier 1,8,65,110,175,240,definitely,definitely,probably,probably,maybe,probably not
+S0235,family,Tier 1,7,25,60,100,120,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0236,student,Tier 2,2,10,30,45,55,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0237,young professional,Tier 2,8,45,80,130,235,definitely,definitely,maybe,definitely not,maybe,definitely not
+S0238,student,Tier 2,6,30,45,95,145,probably,maybe,probably not,definitely not,definitely not,definitely not
+S0239,student,Tier 1,4,30,60,100,125,definitely,probably not,maybe,definitely not,definitely not,definitely not
+S0240,student,Tier 1,2,20,35,60,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0241,young professional,Tier 1,4,30,95,130,165,definitely,definitely,probably,maybe,definitely not,definitely not
+S0242,student,Tier 1,3,35,65,105,145,definitely,definitely,probably not,probably not,definitely not,definitely not
+S0243,young professional,Tier 1,6,40,105,160,285,definitely,definitely,definitely,maybe,probably not,definitely not
+S0244,student,Tier 1,6,35,75,110,185,probably,definitely,maybe,maybe,definitely not,definitely not
+S0245,young professional,Tier 1,5,40,105,160,205,definitely,definitely,definitely,maybe,probably not,definitely not
+S0246,young professional,Tier 1,7,45,135,195,290,definitely,definitely,definitely,probably,probably,probably not
+S0247,young professional,Tier 2,10,30,50,75,110,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0248,student,Tier 1,2,40,55,110,145,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0249,family,Tier 1,4,40,100,170,230,definitely,definitely,probably,probably not,probably not,definitely not
+S0250,family,Tier 2,7,35,90,140,185,definitely,definitely,probably,probably not,maybe,definitely not
+S0251,young professional,Tier 1,7,30,65,90,135,probably,maybe,probably not,probably not,definitely not,definitely not
+S0252,young professional,Tier 1,2,35,50,110,155,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0253,young professional,Tier 2,5,25,50,95,155,probably,maybe,probably,definitely not,definitely not,definitely not
+S0254,young professional,Tier 2,6,15,25,50,70,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0255,family,Tier 1,3,110,220,320,510,definitely,definitely,definitely,definitely,definitely,definitely
+S0256,young professional,Tier 1,4,20,50,85,140,definitely,probably,definitely not,definitely not,definitely not,definitely not
+S0257,young professional,Tier 2,6,50,100,170,250,definitely,definitely,probably,definitely,maybe,probably not
+S0258,family,Tier 2,6,25,65,105,165,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0259,young professional,Tier 1,4,35,55,105,155,definitely,maybe,maybe,definitely not,probably not,definitely not
+S0260,student,Tier 2,3,25,50,75,115,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0261,young professional,Tier 1,2,30,65,90,135,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0262,family,Tier 2,8,65,110,185,250,definitely,definitely,definitely,definitely,probably,probably not
+S0263,young professional,Tier 1,6,30,100,145,210,definitely,definitely,maybe,probably not,probably not,definitely not
+S0264,student,Tier 1,5,20,45,75,105,maybe,maybe,definitely not,definitely not,definitely not,definitely not
+S0265,young professional,Tier 1,5,45,115,175,305,definitely,definitely,definitely,definitely,probably,probably not
+S0266,young professional,Tier 1,4,45,115,155,230,definitely,definitely,probably,maybe,probably not,definitely not
+S0267,young professional,Tier 1,6,20,55,85,130,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0268,student,Tier 1,2,15,30,45,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0269,young professional,Tier 1,3,30,65,105,135,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0270,young professional,Tier 1,7,50,105,155,250,definitely,definitely,definitely,maybe,probably not,probably not
+S0271,student,Tier 1,2,25,55,95,110,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0272,young professional,Tier 1,1,50,70,150,215,definitely,definitely,probably not,definitely,probably not,definitely not
+S0273,young professional,Tier 1,5,40,75,125,155,definitely,probably,probably,definitely not,definitely not,definitely not
+S0274,young professional,Tier 1,4,30,55,70,105,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0275,young professional,Tier 2,5,35,65,130,195,definitely,probably,maybe,maybe,probably not,definitely not
+S0276,student,Tier 1,3,10,30,45,65,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0277,family,Tier 2,5,30,45,90,120,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0278,family,Tier 1,3,45,85,150,200,definitely,definitely,definitely,probably not,maybe,definitely not
+S0279,family,Tier 1,6,35,105,150,210,definitely,definitely,definitely,maybe,maybe,definitely not
+S0280,young professional,Tier 1,6,35,85,150,195,definitely,definitely,definitely,probably not,maybe,definitely not
+S0281,young professional,Tier 1,1,50,80,135,215,definitely,definitely,definitely,maybe,maybe,definitely not
+S0282,young professional,Tier 2,2,25,60,135,190,definitely,maybe,probably not,maybe,definitely not,definitely not
+S0283,student,Tier 1,1,15,25,40,55,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0284,young professional,Tier 2,2,30,65,110,150,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0285,young professional,Tier 2,5,30,55,95,125,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0286,family,Tier 1,3,30,60,140,185,definitely,definitely,maybe,maybe,definitely not,definitely not
+S0287,student,Tier 2,1,15,25,45,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0288,student,Tier 1,5,50,85,155,215,definitely,definitely,definitely,probably,probably not,definitely not
+S0289,family,Tier 2,13,25,50,100,120,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0290,family,Tier 1,8,45,100,165,215,definitely,definitely,definitely,probably,probably not,definitely not
+S0291,young professional,Tier 1,4,25,50,75,120,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0292,family,Tier 1,3,45,60,140,155,definitely,probably,probably,probably not,probably not,definitely not
+S0293,young professional,Tier 1,7,30,70,155,180,definitely,definitely,definitely,probably not,definitely not,definitely not
+S0294,family,Tier 2,4,20,55,75,130,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0295,young professional,Tier 1,6,60,80,150,210,definitely,definitely,definitely,probably,probably,probably not
+S0296,young professional,Tier 1,4,40,85,140,175,definitely,probably,probably,probably not,definitely not,definitely not
+S0297,young professional,Tier 2,4,45,80,130,230,definitely,probably,maybe,maybe,probably not,definitely not
+S0298,family,Tier 1,4,60,160,205,280,definitely,definitely,definitely,definitely,definitely,probably not
+S0299,family,Tier 2,8,60,145,235,305,definitely,definitely,definitely,definitely,probably,probably not
+S0300,family,Tier 2,5,30,50,110,120,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0301,young professional,Tier 2,5,30,55,90,135,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0302,family,Tier 2,5,45,105,155,235,definitely,definitely,definitely,maybe,maybe,definitely not
+S0303,student,Tier 1,1,10,25,45,60,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0304,student,Tier 1,1,15,25,45,70,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0305,student,Tier 2,6,10,20,50,55,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0306,student,Tier 1,3,30,60,105,145,definitely,probably,probably not,probably not,definitely not,definitely not
+S0307,young professional,Tier 1,5,25,70,120,170,definitely,probably,probably,probably not,definitely not,definitely not
+S0308,student,Tier 1,1,15,25,45,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0309,family,Tier 1,9,50,135,215,270,definitely,definitely,definitely,maybe,probably,maybe
+S0310,student,Tier 1,3,30,55,70,110,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0311,family,Tier 1,5,35,90,145,205,probably,probably,probably not,probably not,definitely not,definitely not
+S0312,student,Tier 1,2,15,35,50,75,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0313,family,Tier 1,5,45,115,160,240,definitely,definitely,definitely,maybe,probably not,definitely not
+S0314,young professional,Tier 2,3,25,70,100,140,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0315,student,Tier 2,6,25,50,75,130,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0316,young professional,Tier 2,1,10,30,40,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0317,young professional,Tier 1,8,60,145,300,385,definitely,definitely,definitely,definitely,definitely,probably
+S0318,family,Tier 1,5,30,90,135,195,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0319,young professional,Tier 2,7,50,75,155,220,definitely,probably,probably,maybe,maybe,definitely not
+S0320,student,Tier 2,2,20,45,70,125,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0321,young professional,Tier 2,9,35,60,110,190,definitely,maybe,probably,probably not,probably not,definitely not
+S0322,young professional,Tier 1,6,30,90,145,165,definitely,definitely,probably,probably not,definitely not,definitely not
+S0323,student,Tier 1,7,45,80,115,190,definitely,definitely,maybe,probably not,probably not,definitely not
+S0324,family,Tier 1,11,60,135,220,350,definitely,definitely,definitely,definitely,definitely,probably
+S0325,young professional,Tier 1,7,60,95,160,205,definitely,definitely,definitely,probably,probably not,probably not
+S0326,young professional,Tier 2,2,20,40,60,100,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0327,student,Tier 1,4,15,30,60,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0328,young professional,Tier 1,7,40,70,105,180,definitely,probably,maybe,probably not,definitely not,definitely not
+S0329,student,Tier 2,1,10,20,35,45,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0330,young professional,Tier 2,3,15,35,60,75,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0331,family,Tier 1,7,50,100,160,235,definitely,definitely,definitely,definitely,probably not,definitely not
+S0332,student,Tier 1,6,30,70,105,145,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0333,young professional,Tier 1,6,55,105,170,215,definitely,definitely,probably,probably not,probably not,definitely not
+S0334,student,Tier 2,4,20,40,80,135,probably,probably not,probably not,definitely not,definitely not,definitely not
+S0335,family,Tier 1,8,30,60,100,145,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0336,student,Tier 2,1,25,40,70,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0337,family,Tier 1,7,60,90,145,250,definitely,definitely,definitely,probably,maybe,definitely not
+S0338,student,Tier 2,1,10,20,35,55,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0339,student,Tier 1,3,30,45,95,115,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0340,young professional,Tier 1,8,35,75,120,150,definitely,probably,probably,definitely not,definitely not,definitely not
+S0341,young professional,Tier 1,4,40,75,105,180,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S0342,student,Tier 1,3,30,60,125,175,definitely,probably,probably,definitely not,definitely not,definitely not
+S0343,student,Tier 1,5,20,50,70,110,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0344,young professional,Tier 1,6,120,255,355,505,definitely,definitely,definitely,definitely,definitely,probably
+S0345,young professional,Tier 2,6,55,85,155,205,definitely,probably,probably,maybe,probably not,definitely not
+S0346,family,Tier 1,7,110,190,290,480,definitely,definitely,definitely,definitely,definitely,definitely
+S0347,young professional,Tier 1,3,35,65,110,135,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0348,young professional,Tier 1,3,30,70,110,190,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0349,young professional,Tier 1,4,50,95,155,230,definitely,definitely,probably,maybe,probably not,definitely not
+S0350,student,Tier 2,3,35,60,105,145,definitely,maybe,probably,definitely not,definitely not,definitely not
+S0351,young professional,Tier 1,5,40,80,170,230,definitely,definitely,definitely,definitely,maybe,definitely not
+S0352,family,Tier 2,4,40,80,115,150,definitely,maybe,probably,maybe,definitely not,definitely not
+S0353,family,Tier 1,3,65,105,175,225,definitely,definitely,probably,definitely,maybe,definitely not
+S0354,student,Tier 1,1,25,55,85,100,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0355,young professional,Tier 2,3,40,70,140,210,definitely,probably,definitely,probably,probably not,definitely not
+S0356,family,Tier 2,2,35,90,155,200,definitely,definitely,probably,maybe,maybe,definitely not
+S0357,student,Tier 1,1,15,35,60,80,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0358,young professional,Tier 1,9,50,85,160,215,definitely,definitely,probably,probably,probably not,definitely not
+S0359,student,Tier 2,4,40,95,125,175,definitely,maybe,maybe,probably not,probably not,definitely not
+S0360,family,Tier 1,7,70,160,270,355,definitely,definitely,definitely,definitely,definitely,maybe
+S0361,student,Tier 1,3,40,105,155,210,definitely,definitely,definitely,maybe,probably not,definitely not
+S0362,young professional,Tier 1,8,55,120,180,285,definitely,definitely,probably,probably,probably,probably not
+S0363,student,Tier 1,1,15,25,50,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0364,student,Tier 1,2,20,25,55,80,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0365,family,Tier 1,7,55,80,150,225,definitely,definitely,definitely,maybe,probably not,definitely not
+S0366,student,Tier 2,5,25,40,70,100,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0367,family,Tier 2,3,45,95,150,225,definitely,definitely,maybe,maybe,maybe,definitely not
+S0368,student,Tier 1,4,20,65,90,130,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0369,family,Tier 1,5,70,125,195,310,definitely,definitely,definitely,definitely,probably,probably not
+S0370,young professional,Tier 1,5,20,40,85,100,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0371,young professional,Tier 1,6,60,115,150,260,definitely,definitely,definitely,maybe,probably not,definitely not
+S0372,family,Tier 2,8,75,150,290,350,definitely,definitely,definitely,definitely,probably,maybe
+S0373,student,Tier 1,1,15,35,60,85,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0374,young professional,Tier 1,8,35,50,100,170,definitely,probably,maybe,probably not,definitely not,definitely not
+S0375,family,Tier 1,2,45,120,200,235,definitely,definitely,definitely,maybe,probably,maybe
+S0376,student,Tier 1,1,15,35,65,90,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0377,young professional,Tier 1,6,65,90,205,270,definitely,definitely,probably,definitely,maybe,maybe
+S0378,family,Tier 1,5,45,65,125,170,definitely,definitely,probably not,probably not,maybe,definitely not
+S0379,young professional,Tier 2,4,50,90,185,285,definitely,definitely,definitely,probably not,probably,maybe
+S0380,family,Tier 1,5,40,90,135,185,definitely,probably,probably,probably not,probably not,definitely not
+S0381,young professional,Tier 2,8,85,120,215,370,definitely,definitely,definitely,definitely,probably,definitely
+S0382,young professional,Tier 1,6,40,70,145,195,definitely,probably,probably,maybe,probably not,definitely not
+S0383,student,Tier 2,4,15,45,80,95,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0384,family,Tier 1,4,60,110,170,290,definitely,definitely,definitely,probably,probably,probably not
+S0385,young professional,Tier 2,5,60,110,260,335,definitely,definitely,definitely,definitely,definitely,probably
+S0386,young professional,Tier 2,5,15,35,70,85,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0387,young professional,Tier 1,8,20,45,100,120,probably,maybe,probably not,definitely not,definitely not,definitely not
+S0388,young professional,Tier 1,2,70,125,210,260,definitely,definitely,definitely,probably,maybe,definitely not
+S0389,family,Tier 2,5,40,65,105,175,definitely,maybe,probably not,definitely not,probably not,definitely not
+S0390,young professional,Tier 2,7,25,60,90,110,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0391,young professional,Tier 1,8,65,110,210,280,definitely,definitely,maybe,definitely,probably not,probably not
+S0392,student,Tier 2,1,10,15,35,50,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0393,young professional,Tier 2,1,15,25,50,80,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0394,young professional,Tier 1,6,55,100,220,335,definitely,probably,definitely,definitely,maybe,maybe
+S0395,family,Tier 1,4,105,280,410,520,definitely,definitely,definitely,definitely,definitely,definitely
+S0396,young professional,Tier 1,7,75,145,215,280,definitely,definitely,definitely,maybe,definitely,probably not
+S0397,young professional,Tier 1,4,60,105,175,260,definitely,definitely,definitely,definitely,probably not,definitely not
+S0398,young professional,Tier 2,7,50,70,140,170,definitely,definitely,probably,probably not,probably not,definitely not
+S0399,student,Tier 1,7,50,95,140,245,definitely,probably,definitely,maybe,maybe,definitely not
+S0400,student,Tier 1,3,10,20,40,55,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0401,young professional,Tier 1,5,40,80,120,200,definitely,maybe,maybe,maybe,probably not,definitely not
+S0402,young professional,Tier 1,4,25,65,110,140,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0403,family,Tier 1,3,95,125,270,390,definitely,definitely,definitely,definitely,probably,probably
+S0404,student,Tier 1,2,30,50,75,110,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0405,family,Tier 2,7,25,55,85,145,probably,probably,probably not,definitely not,definitely not,definitely not
+S0406,young professional,Tier 2,4,25,65,95,145,probably,probably,probably not,definitely not,definitely not,definitely not
+S0407,student,Tier 1,4,20,60,105,155,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0408,young professional,Tier 1,3,40,95,180,250,definitely,definitely,definitely,probably,maybe,probably not
+S0409,young professional,Tier 1,5,30,50,90,125,definitely,probably,probably not,probably not,definitely not,definitely not
+S0410,young professional,Tier 2,3,15,45,75,115,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0411,young professional,Tier 1,5,30,60,85,110,definitely,probably,definitely not,definitely not,definitely not,definitely not
+S0412,family,Tier 1,6,50,75,180,205,definitely,definitely,maybe,probably,probably not,definitely not
+S0413,young professional,Tier 1,5,70,125,210,270,definitely,definitely,definitely,definitely,maybe,maybe
+S0414,family,Tier 2,2,10,20,40,65,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0415,student,Tier 2,1,10,20,30,55,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0416,student,Tier 1,3,15,40,65,85,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0417,young professional,Tier 2,4,40,125,185,290,definitely,definitely,definitely,definitely,probably,probably not
+S0418,young professional,Tier 1,7,25,70,110,155,definitely,probably,definitely not,definitely not,definitely not,definitely not
+S0419,young professional,Tier 1,4,35,85,160,235,definitely,probably,probably,probably,maybe,definitely not
+S0420,student,Tier 1,4,55,85,145,225,definitely,definitely,probably,maybe,maybe,probably not
+S0421,young professional,Tier 1,5,45,105,190,240,definitely,probably,definitely,definitely,probably,maybe
+S0422,family,Tier 1,9,60,95,185,280,definitely,definitely,probably,maybe,maybe,probably not
+S0423,young professional,Tier 2,3,35,65,150,230,definitely,definitely,probably,probably not,maybe,definitely not
+S0424,young professional,Tier 1,6,35,85,125,205,definitely,definitely,probably,maybe,definitely not,definitely not
+S0425,young professional,Tier 2,6,65,105,180,220,definitely,definitely,definitely,definitely,maybe,definitely not
+S0426,young professional,Tier 2,4,50,120,190,340,definitely,definitely,definitely,maybe,definitely,maybe
+S0427,family,Tier 1,7,60,130,255,420,definitely,definitely,definitely,probably,definitely,probably
+S0428,student,Tier 1,3,60,75,175,255,definitely,definitely,definitely,maybe,maybe,probably not
+S0429,family,Tier 1,6,30,40,80,120,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0430,young professional,Tier 2,9,30,65,115,190,definitely,definitely,maybe,probably not,probably not,definitely not
+S0431,young professional,Tier 1,8,85,120,195,295,definitely,definitely,definitely,definitely,probably,maybe
+S0432,young professional,Tier 1,3,30,75,100,135,definitely,maybe,definitely not,definitely not,probably not,definitely not
+S0433,young professional,Tier 1,5,75,145,260,400,definitely,definitely,definitely,definitely,definitely,maybe
+S0434,young professional,Tier 1,8,90,200,435,645,definitely,definitely,definitely,definitely,definitely,definitely
+S0435,young professional,Tier 1,2,35,90,145,170,definitely,definitely,probably,maybe,probably not,definitely not
+S0436,student,Tier 1,2,20,30,55,75,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0437,student,Tier 2,4,35,65,115,160,definitely,definitely,probably not,probably not,definitely not,definitely not
+S0438,young professional,Tier 1,4,65,100,205,270,definitely,definitely,definitely,probably,probably,probably not
+S0439,student,Tier 1,3,30,35,75,115,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0440,student,Tier 1,1,15,30,50,65,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0441,young professional,Tier 2,6,60,115,245,345,definitely,definitely,definitely,probably,maybe,maybe
+S0442,student,Tier 2,4,40,85,125,165,definitely,probably,probably,definitely not,definitely not,definitely not
+S0443,young professional,Tier 1,6,15,50,75,90,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0444,family,Tier 1,7,30,90,145,210,definitely,probably,probably,probably not,definitely not,definitely not
+S0445,family,Tier 1,5,70,125,270,405,definitely,definitely,definitely,definitely,definitely,maybe
+S0446,student,Tier 1,3,15,30,55,85,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0447,young professional,Tier 2,4,35,80,110,150,probably,probably,probably not,probably not,definitely not,definitely not
+S0448,young professional,Tier 1,4,45,155,210,355,definitely,definitely,definitely,definitely,definitely,maybe
+S0449,young professional,Tier 1,4,45,75,145,165,definitely,definitely,probably,maybe,probably not,definitely not
+S0450,young professional,Tier 2,8,65,90,170,285,definitely,definitely,definitely,maybe,probably not,definitely not
+S0451,family,Tier 1,9,75,125,185,270,definitely,definitely,definitely,probably,maybe,probably not
+S0452,student,Tier 2,3,10,30,60,85,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0453,family,Tier 2,7,40,90,130,200,definitely,probably,probably not,definitely not,probably not,definitely not
+S0454,family,Tier 2,7,60,135,200,280,definitely,definitely,definitely,definitely,maybe,maybe
+S0455,student,Tier 2,2,20,40,65,90,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0456,young professional,Tier 2,4,20,55,105,145,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0457,young professional,Tier 1,7,70,220,320,465,definitely,definitely,definitely,definitely,definitely,probably
+S0458,family,Tier 1,4,45,70,130,190,definitely,probably,maybe,probably not,definitely not,definitely not
+S0459,student,Tier 2,3,15,35,55,80,probably not,probably not,definitely not,definitely not,definitely not,definitely not
+S0460,family,Tier 1,5,40,100,165,265,definitely,definitely,definitely,probably,maybe,definitely not
+S0461,student,Tier 1,5,35,70,90,145,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0462,student,Tier 2,1,10,25,50,70,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0463,student,Tier 1,3,15,25,35,45,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0464,family,Tier 2,5,40,100,190,250,definitely,probably,probably,maybe,maybe,probably not
+S0465,family,Tier 1,3,50,110,165,230,definitely,probably,definitely,definitely,probably not,definitely not
+S0466,young professional,Tier 1,4,30,40,80,130,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0467,young professional,Tier 2,4,40,55,95,170,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0468,student,Tier 1,5,20,45,75,115,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0469,young professional,Tier 1,4,25,50,95,130,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0470,young professional,Tier 1,7,65,180,270,355,definitely,definitely,definitely,definitely,definitely,probably
+S0471,young professional,Tier 2,9,125,230,325,445,definitely,definitely,definitely,definitely,definitely,definitely
+S0472,young professional,Tier 2,5,35,55,110,135,definitely,maybe,probably,definitely not,probably not,definitely not
+S0473,young professional,Tier 1,4,40,55,115,155,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0474,young professional,Tier 1,3,45,65,130,165,definitely,definitely,probably,probably not,definitely not,definitely not
+S0475,young professional,Tier 1,4,30,55,95,135,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0476,young professional,Tier 1,8,70,205,330,415,definitely,definitely,definitely,probably,definitely,maybe
+S0477,young professional,Tier 2,4,35,65,95,150,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0478,young professional,Tier 1,2,50,85,155,215,definitely,definitely,probably,probably not,definitely not,definitely not
+S0479,young professional,Tier 1,2,35,65,145,205,definitely,probably,probably,probably not,definitely not,definitely not
+S0480,young professional,Tier 2,7,40,90,165,225,definitely,definitely,definitely,maybe,probably not,definitely not
+S0481,student,Tier 1,3,35,55,105,130,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0482,young professional,Tier 2,1,15,35,60,85,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0483,student,Tier 1,1,15,35,75,90,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0484,young professional,Tier 1,6,40,105,210,250,definitely,definitely,definitely,definitely,maybe,probably not
+S0485,young professional,Tier 1,5,30,65,115,160,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0486,young professional,Tier 2,3,35,45,95,110,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0487,family,Tier 1,9,50,65,150,195,definitely,definitely,definitely,maybe,probably not,definitely not
+S0488,young professional,Tier 2,8,30,50,100,150,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0489,family,Tier 1,5,35,80,140,170,definitely,definitely,probably,maybe,probably not,definitely not
+S0490,family,Tier 1,9,45,75,150,200,definitely,definitely,probably,maybe,probably not,definitely not
+S0491,young professional,Tier 1,4,50,90,125,180,definitely,probably,maybe,maybe,probably not,definitely not
+S0492,young professional,Tier 2,2,30,65,100,120,definitely,definitely,probably not,definitely not,definitely not,definitely not
+S0493,family,Tier 1,8,110,175,300,390,definitely,definitely,definitely,definitely,definitely,probably
+S0494,young professional,Tier 1,7,55,125,235,330,definitely,definitely,definitely,probably,probably,maybe
+S0495,student,Tier 2,4,35,65,115,140,definitely,definitely,probably,definitely not,definitely not,definitely not
+S0496,young professional,Tier 2,2,20,35,50,75,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0497,student,Tier 1,5,35,65,125,145,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S0498,young professional,Tier 2,2,30,65,135,155,definitely,probably,probably,probably not,definitely not,definitely not
+S0499,student,Tier 2,1,20,35,65,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0500,student,Tier 1,1,15,20,50,55,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0501,family,Tier 2,8,55,110,180,245,definitely,definitely,definitely,probably,maybe,probably not
+S0502,young professional,Tier 2,5,20,25,50,75,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0503,family,Tier 2,3,15,30,70,80,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0504,young professional,Tier 1,4,30,55,85,115,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0505,young professional,Tier 1,2,40,50,120,145,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0506,student,Tier 1,2,15,30,50,75,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0507,student,Tier 1,5,35,90,170,220,definitely,probably,definitely,maybe,maybe,probably not
+S0508,young professional,Tier 1,7,50,85,180,270,definitely,definitely,maybe,probably,probably not,probably not
+S0509,young professional,Tier 1,1,25,40,90,120,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0510,student,Tier 1,7,35,60,90,140,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0511,young professional,Tier 2,3,25,45,90,105,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0512,student,Tier 1,4,10,20,35,50,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0513,student,Tier 2,2,20,40,75,95,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0514,student,Tier 1,1,25,55,100,120,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S0515,student,Tier 1,3,25,50,75,120,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0516,young professional,Tier 1,6,50,95,150,210,definitely,probably not,definitely,probably not,probably not,definitely not
+S0517,student,Tier 1,2,20,55,85,100,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0518,young professional,Tier 1,7,30,50,100,130,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0519,young professional,Tier 1,7,75,160,340,440,definitely,definitely,definitely,definitely,definitely,probably not
+S0520,young professional,Tier 1,3,15,30,70,100,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0521,family,Tier 1,7,35,80,150,210,definitely,definitely,definitely,maybe,probably not,definitely not
+S0522,family,Tier 2,15,55,110,175,215,definitely,definitely,definitely,probably,probably not,definitely not
+S0523,student,Tier 1,5,25,55,95,125,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0524,young professional,Tier 1,5,50,80,155,185,definitely,definitely,probably not,maybe,probably not,definitely not
+S0525,young professional,Tier 2,4,45,95,135,190,definitely,definitely,probably,probably not,maybe,definitely not
+S0526,young professional,Tier 1,3,25,55,110,160,probably,probably,probably,probably not,definitely not,definitely not
+S0527,young professional,Tier 2,8,95,145,310,420,definitely,definitely,definitely,probably,probably,definitely
+S0528,family,Tier 2,7,50,95,165,240,definitely,definitely,definitely,probably,maybe,definitely not
+S0529,young professional,Tier 1,3,40,75,130,160,definitely,probably,probably not,probably not,probably not,definitely not
+S0530,family,Tier 1,11,95,155,300,400,definitely,definitely,definitely,definitely,definitely,probably
+S0531,young professional,Tier 1,7,35,65,125,215,definitely,probably,probably,maybe,definitely not,definitely not
+S0532,young professional,Tier 2,8,35,60,100,160,definitely,probably not,maybe,definitely not,definitely not,definitely not
+S0533,young professional,Tier 1,7,65,140,245,270,definitely,definitely,definitely,definitely,definitely,maybe
+S0534,family,Tier 1,4,35,75,135,170,definitely,probably,probably,probably not,probably not,definitely not
+S0535,student,Tier 2,2,10,25,35,45,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0536,student,Tier 1,2,15,25,50,70,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0537,family,Tier 1,5,35,60,105,155,definitely,maybe,probably not,probably not,definitely not,definitely not
+S0538,family,Tier 1,10,60,155,210,290,definitely,definitely,definitely,definitely,definitely,maybe
+S0539,student,Tier 1,2,25,65,105,140,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0540,family,Tier 2,6,40,70,140,190,definitely,definitely,probably,maybe,probably not,definitely not
+S0541,young professional,Tier 1,4,35,75,135,200,definitely,probably,definitely,probably not,definitely not,definitely not
+S0542,student,Tier 1,4,20,40,80,95,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0543,student,Tier 1,3,15,30,50,70,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0544,student,Tier 1,3,20,40,65,100,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0545,young professional,Tier 1,7,20,50,100,130,probably,probably,probably not,definitely not,definitely not,definitely not
+S0546,family,Tier 2,8,45,85,175,275,definitely,definitely,definitely,maybe,maybe,definitely not
+S0547,young professional,Tier 1,4,65,120,185,245,definitely,definitely,definitely,probably,maybe,probably not
+S0548,young professional,Tier 2,3,40,55,120,175,definitely,probably,maybe,maybe,definitely not,definitely not
+S0549,young professional,Tier 1,4,20,40,75,85,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0550,student,Tier 1,3,20,40,80,105,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0551,family,Tier 1,4,65,125,205,235,definitely,definitely,probably,probably,definitely,maybe
+S0552,family,Tier 1,5,40,80,160,180,definitely,definitely,probably,probably not,probably not,definitely not
+S0553,student,Tier 1,2,15,35,70,105,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S0554,student,Tier 2,5,35,75,140,195,definitely,definitely,definitely,maybe,probably not,definitely not
+S0555,young professional,Tier 1,3,60,120,175,305,definitely,definitely,definitely,definitely,probably,probably not
+S0556,young professional,Tier 2,7,25,50,105,160,definitely,probably not,maybe,probably not,definitely not,definitely not
+S0557,young professional,Tier 1,3,55,95,160,265,definitely,definitely,probably,maybe,maybe,definitely not
+S0558,student,Tier 2,7,15,30,65,70,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0559,student,Tier 1,1,15,35,60,85,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0560,young professional,Tier 1,5,60,145,215,260,definitely,definitely,definitely,probably,probably,maybe
+S0561,family,Tier 1,8,40,75,140,195,definitely,definitely,maybe,definitely not,probably not,definitely not
+S0562,student,Tier 2,2,20,35,55,65,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0563,young professional,Tier 2,5,20,40,65,95,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0564,young professional,Tier 1,3,45,75,130,190,definitely,definitely,definitely,probably,probably not,probably not
+S0565,young professional,Tier 1,6,90,165,265,420,definitely,definitely,definitely,definitely,definitely,probably
+S0566,young professional,Tier 1,5,20,30,60,75,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0567,student,Tier 1,6,20,60,80,125,probably,probably not,probably not,definitely not,definitely not,definitely not
+S0568,young professional,Tier 2,8,80,155,250,435,definitely,definitely,definitely,definitely,probably,probably
+S0569,family,Tier 1,6,40,95,140,180,definitely,definitely,probably not,probably not,definitely not,definitely not
+S0570,young professional,Tier 2,7,35,60,130,180,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0571,young professional,Tier 1,2,40,70,140,215,definitely,maybe,maybe,maybe,definitely not,definitely not
+S0572,young professional,Tier 1,3,20,60,90,135,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0573,student,Tier 1,6,35,60,115,145,definitely,probably,probably,probably not,definitely not,definitely not
+S0574,young professional,Tier 1,4,35,75,170,205,definitely,probably,maybe,probably not,probably,definitely not
+S0575,student,Tier 1,3,15,35,65,95,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0576,student,Tier 2,3,20,40,80,105,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0577,young professional,Tier 1,7,25,75,115,195,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0578,student,Tier 1,2,20,35,55,85,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0579,young professional,Tier 1,3,35,65,110,145,probably,maybe,probably,definitely not,definitely not,definitely not
+S0580,young professional,Tier 1,5,25,65,95,130,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0581,student,Tier 2,2,10,30,50,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0582,student,Tier 2,5,35,55,115,140,definitely,probably,probably not,probably not,definitely not,definitely not
+S0583,family,Tier 2,2,35,60,100,125,probably,probably,probably not,definitely not,definitely not,definitely not
+S0584,family,Tier 2,3,55,80,165,230,definitely,definitely,definitely,maybe,probably,definitely not
+S0585,young professional,Tier 1,4,35,55,115,155,definitely,probably,maybe,probably not,definitely not,definitely not
+S0586,family,Tier 2,11,40,85,190,230,definitely,definitely,definitely,definitely,probably,definitely not
+S0587,student,Tier 1,2,15,30,50,75,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0588,student,Tier 1,5,30,65,90,115,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0589,young professional,Tier 1,4,45,55,125,175,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0590,student,Tier 1,6,55,100,130,180,definitely,definitely,probably,maybe,maybe,definitely not
+S0591,young professional,Tier 2,3,20,35,60,90,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0592,young professional,Tier 1,7,65,95,195,285,definitely,definitely,definitely,definitely,probably,probably not
+S0593,student,Tier 1,2,20,35,65,75,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0594,student,Tier 1,2,30,50,90,135,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0595,family,Tier 1,11,100,155,310,480,definitely,definitely,definitely,definitely,definitely,definitely
+S0596,young professional,Tier 1,5,30,70,85,150,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0597,student,Tier 1,2,30,75,100,150,definitely,probably,maybe,probably not,definitely not,definitely not
+S0598,young professional,Tier 1,5,45,65,130,150,definitely,maybe,probably,probably not,probably not,definitely not
+S0599,family,Tier 1,6,30,55,80,115,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0600,young professional,Tier 1,7,75,105,230,300,definitely,definitely,definitely,maybe,definitely,maybe
+S0601,young professional,Tier 1,2,25,55,105,140,definitely,maybe,maybe,probably not,definitely not,definitely not
+S0602,family,Tier 2,8,40,135,225,310,definitely,definitely,definitely,probably,probably,probably not
+S0603,family,Tier 1,3,45,85,160,255,definitely,definitely,probably,probably,maybe,definitely not
+S0604,young professional,Tier 1,4,30,60,115,170,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0605,family,Tier 1,11,110,140,325,405,definitely,definitely,probably,probably,definitely,probably
+S0606,student,Tier 1,3,15,25,55,65,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0607,student,Tier 1,1,15,40,70,95,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0608,student,Tier 2,3,15,35,55,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0609,student,Tier 1,3,35,50,100,145,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0610,student,Tier 2,2,10,25,35,45,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0611,family,Tier 1,6,80,165,275,310,definitely,definitely,definitely,definitely,definitely,definitely
+S0612,family,Tier 1,7,30,75,130,205,definitely,maybe,probably,probably not,probably not,definitely not
+S0613,student,Tier 1,3,15,30,45,75,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0614,young professional,Tier 1,4,50,110,155,210,definitely,definitely,definitely,probably,probably not,probably not
+S0615,family,Tier 1,7,50,130,180,250,definitely,definitely,definitely,definitely,maybe,definitely not
+S0616,family,Tier 1,7,35,60,105,155,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0617,student,Tier 1,3,25,45,85,115,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0618,young professional,Tier 2,2,30,45,75,115,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0619,young professional,Tier 1,1,25,65,90,125,probably,probably,maybe,definitely not,definitely not,definitely not
+S0620,student,Tier 1,5,20,35,65,90,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0621,student,Tier 1,3,30,60,105,155,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0622,young professional,Tier 2,7,15,45,70,105,probably,probably not,probably not,definitely not,definitely not,definitely not
+S0623,young professional,Tier 2,1,20,45,70,120,maybe,probably not,probably not,definitely not,definitely not,definitely not
+S0624,young professional,Tier 1,8,80,105,245,310,definitely,definitely,definitely,definitely,definitely,maybe
+S0625,student,Tier 1,4,35,70,100,130,probably,maybe,probably not,definitely not,definitely not,definitely not
+S0626,student,Tier 1,1,15,35,50,80,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0627,family,Tier 2,5,20,60,90,130,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0628,young professional,Tier 2,5,40,80,145,205,definitely,definitely,maybe,maybe,probably not,definitely not
+S0629,young professional,Tier 1,7,55,95,185,235,definitely,definitely,probably,probably,maybe,probably not
+S0630,family,Tier 2,6,45,85,175,255,definitely,definitely,definitely,probably not,maybe,probably not
+S0631,student,Tier 2,2,30,50,115,150,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0632,student,Tier 1,2,15,30,45,70,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0633,young professional,Tier 1,4,45,110,220,325,definitely,definitely,definitely,maybe,probably,probably not
+S0634,young professional,Tier 1,2,45,100,170,220,definitely,definitely,definitely,definitely,maybe,maybe
+S0635,young professional,Tier 1,7,30,80,110,165,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0636,young professional,Tier 1,2,20,45,75,100,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S0637,family,Tier 1,11,70,135,290,415,definitely,definitely,definitely,definitely,definitely,definitely
+S0638,family,Tier 1,6,40,85,175,260,definitely,definitely,definitely,probably,probably not,probably not
+S0639,student,Tier 1,3,30,55,100,140,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0640,young professional,Tier 1,4,80,125,205,330,definitely,definitely,probably,definitely,definitely,maybe
+S0641,student,Tier 1,2,15,25,50,85,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0642,young professional,Tier 1,6,60,120,170,295,definitely,definitely,definitely,maybe,probably,definitely not
+S0643,young professional,Tier 2,4,15,20,40,60,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0644,young professional,Tier 2,5,50,65,120,170,definitely,definitely,probably,maybe,definitely not,definitely not
+S0645,young professional,Tier 1,4,45,110,160,225,definitely,probably,definitely,probably,probably not,probably not
+S0646,student,Tier 1,3,30,80,130,220,definitely,definitely,probably,maybe,probably not,definitely not
+S0647,young professional,Tier 1,5,20,35,60,100,probably not,maybe,definitely not,definitely not,definitely not,definitely not
+S0648,young professional,Tier 2,3,25,50,80,115,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0649,young professional,Tier 2,5,65,100,200,275,definitely,definitely,definitely,definitely,maybe,maybe
+S0650,student,Tier 2,7,35,65,100,185,definitely,probably not,probably,definitely not,probably not,definitely not
+S0651,young professional,Tier 2,1,20,30,60,75,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0652,family,Tier 2,6,160,295,455,710,definitely,definitely,definitely,definitely,definitely,definitely
+S0653,student,Tier 1,1,30,65,105,120,maybe,maybe,probably not,definitely not,definitely not,definitely not
+S0654,family,Tier 2,10,65,120,175,285,definitely,definitely,definitely,definitely,maybe,probably not
+S0655,family,Tier 1,10,50,135,215,275,definitely,definitely,definitely,maybe,maybe,probably not
+S0656,family,Tier 1,6,40,90,130,180,definitely,definitely,probably,probably not,definitely not,definitely not
+S0657,young professional,Tier 2,5,45,90,120,190,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S0658,young professional,Tier 1,4,60,105,175,235,definitely,definitely,probably,probably,maybe,definitely not
+S0659,young professional,Tier 1,4,30,85,140,205,definitely,definitely,maybe,probably not,probably not,definitely not
+S0660,young professional,Tier 2,3,25,50,90,115,probably,maybe,probably not,definitely not,definitely not,definitely not
+S0661,family,Tier 1,9,55,125,215,300,definitely,definitely,definitely,definitely,maybe,definitely not
+S0662,young professional,Tier 1,8,60,125,225,335,definitely,definitely,definitely,probably,definitely,probably
+S0663,young professional,Tier 1,7,35,85,135,185,definitely,probably,probably,probably not,probably not,definitely not
+S0664,family,Tier 1,10,25,65,115,160,definitely,definitely,probably not,probably not,definitely not,definitely not
+S0665,young professional,Tier 1,6,40,85,135,180,definitely,probably,definitely,probably not,probably not,definitely not
+S0666,student,Tier 1,5,25,70,105,165,definitely,definitely,probably,definitely not,definitely not,definitely not
+S0667,family,Tier 1,3,40,65,110,165,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0668,young professional,Tier 2,5,30,70,125,165,definitely,definitely,probably not,definitely not,probably not,definitely not
+S0669,young professional,Tier 1,10,45,100,125,170,definitely,definitely,definitely,maybe,definitely not,definitely not
+S0670,young professional,Tier 1,3,35,70,115,160,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0671,young professional,Tier 2,7,55,95,165,230,definitely,definitely,maybe,probably,probably,probably not
+S0672,student,Tier 1,2,20,30,60,80,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0673,student,Tier 1,1,50,85,120,165,definitely,maybe,maybe,probably not,definitely not,definitely not
+S0674,student,Tier 1,4,20,45,95,140,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0675,young professional,Tier 1,3,60,100,215,260,definitely,definitely,definitely,probably,maybe,maybe
+S0676,young professional,Tier 2,6,25,50,65,120,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0677,family,Tier 1,7,90,160,255,370,definitely,definitely,definitely,definitely,definitely,maybe
+S0678,family,Tier 2,8,105,195,320,380,definitely,definitely,definitely,probably,definitely,maybe
+S0679,family,Tier 1,5,55,125,210,290,definitely,definitely,definitely,definitely,maybe,probably not
+S0680,student,Tier 1,2,25,65,110,150,probably,maybe,probably not,definitely not,definitely not,definitely not
+S0681,student,Tier 1,6,15,40,60,80,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0682,family,Tier 1,10,60,95,210,320,definitely,definitely,definitely,definitely,maybe,probably
+S0683,young professional,Tier 1,4,20,30,55,85,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0684,young professional,Tier 1,7,30,85,125,170,definitely,definitely,probably,probably not,definitely not,definitely not
+S0685,young professional,Tier 2,5,60,125,190,255,definitely,definitely,probably,definitely,probably not,probably not
+S0686,student,Tier 2,1,5,10,15,25,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0687,family,Tier 1,3,30,85,135,200,definitely,probably,definitely,probably not,probably not,definitely not
+S0688,student,Tier 1,2,35,75,115,155,definitely,probably,probably not,probably not,definitely not,definitely not
+S0689,family,Tier 1,8,105,175,300,395,definitely,definitely,definitely,definitely,probably,definitely
+S0690,young professional,Tier 1,3,30,70,115,160,definitely,probably,probably not,probably not,definitely not,definitely not
+S0691,young professional,Tier 2,5,25,45,90,120,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0692,student,Tier 1,2,30,40,75,100,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0693,young professional,Tier 1,3,40,80,125,185,definitely,definitely,maybe,maybe,definitely not,definitely not
+S0694,young professional,Tier 1,2,35,85,180,260,definitely,definitely,definitely,maybe,maybe,definitely not
+S0695,young professional,Tier 2,2,20,50,95,120,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0696,student,Tier 1,3,15,35,55,70,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0697,family,Tier 2,9,50,125,185,220,definitely,definitely,definitely,probably,maybe,definitely not
+S0698,family,Tier 2,8,45,85,145,215,definitely,definitely,probably,probably not,probably not,definitely not
+S0699,student,Tier 2,4,25,45,90,115,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0700,student,Tier 1,2,15,30,60,70,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0701,young professional,Tier 2,3,30,65,100,125,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0702,young professional,Tier 2,7,40,95,145,220,definitely,definitely,definitely,probably not,probably not,definitely not
+S0703,young professional,Tier 1,3,30,70,130,145,maybe,probably,maybe,probably not,probably not,definitely not
+S0704,family,Tier 1,3,45,90,150,235,definitely,definitely,probably,probably not,probably not,definitely not
+S0705,young professional,Tier 1,4,50,100,170,230,definitely,definitely,definitely,probably,maybe,probably not
+S0706,young professional,Tier 2,2,20,65,100,150,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0707,family,Tier 1,5,65,125,270,375,definitely,definitely,definitely,definitely,maybe,definitely
+S0708,young professional,Tier 1,10,85,130,265,395,definitely,definitely,definitely,definitely,definitely,probably
+S0709,young professional,Tier 1,4,45,75,145,200,definitely,probably,probably,maybe,definitely not,probably not
+S0710,student,Tier 1,4,25,55,85,110,definitely,probably,definitely not,definitely not,definitely not,definitely not
+S0711,student,Tier 1,5,30,45,80,120,maybe,probably not,probably not,definitely not,definitely not,definitely not
+S0712,young professional,Tier 2,6,30,60,110,160,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0713,student,Tier 1,4,20,50,70,85,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0714,student,Tier 2,2,10,20,40,55,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0715,young professional,Tier 2,7,35,60,110,150,definitely,maybe,maybe,probably not,definitely not,definitely not
+S0716,family,Tier 1,3,70,140,255,365,definitely,definitely,definitely,definitely,maybe,probably
+S0717,student,Tier 1,1,15,30,65,75,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0718,family,Tier 1,4,25,50,105,135,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0719,family,Tier 2,9,50,85,155,225,definitely,probably,definitely,probably,probably not,probably not
+S0720,young professional,Tier 1,2,40,65,110,190,definitely,probably,maybe,probably not,definitely not,definitely not
+S0721,young professional,Tier 1,6,50,85,140,210,definitely,definitely,definitely,maybe,probably not,definitely not
+S0722,student,Tier 1,3,30,45,90,120,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0723,family,Tier 1,8,85,175,270,420,definitely,definitely,definitely,definitely,definitely,maybe
+S0724,family,Tier 1,10,40,135,185,250,definitely,probably,definitely,definitely,definitely,probably not
+S0725,family,Tier 2,4,35,60,125,170,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0726,student,Tier 1,2,20,45,85,115,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0727,family,Tier 2,8,55,95,200,300,definitely,definitely,definitely,definitely,maybe,probably not
+S0728,young professional,Tier 2,7,45,60,125,145,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S0729,young professional,Tier 1,6,45,75,145,190,definitely,definitely,definitely,probably,definitely not,definitely not
+S0730,student,Tier 1,4,65,110,200,245,definitely,definitely,definitely,probably,maybe,probably not
+S0731,young professional,Tier 1,1,35,60,100,135,probably,probably,maybe,definitely not,definitely not,definitely not
+S0732,young professional,Tier 2,6,20,55,90,150,definitely,probably,definitely not,definitely not,definitely not,definitely not
+S0733,student,Tier 1,4,45,95,145,195,definitely,probably,maybe,probably,definitely not,definitely not
+S0734,young professional,Tier 1,5,75,205,280,425,definitely,definitely,definitely,definitely,definitely,definitely
+S0735,young professional,Tier 1,3,30,65,105,140,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0736,young professional,Tier 1,2,35,65,110,175,definitely,probably not,maybe,probably not,definitely not,definitely not
+S0737,young professional,Tier 1,4,40,60,140,155,definitely,maybe,probably not,maybe,probably not,definitely not
+S0738,family,Tier 2,2,50,120,190,235,definitely,definitely,definitely,maybe,probably,maybe
+S0739,young professional,Tier 1,4,25,50,95,130,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0740,family,Tier 2,7,50,80,185,260,definitely,definitely,definitely,maybe,maybe,probably not
+S0741,student,Tier 2,2,15,40,70,100,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S0742,family,Tier 1,6,50,105,160,235,definitely,definitely,maybe,maybe,probably not,definitely not
+S0743,family,Tier 2,3,25,65,105,130,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0744,young professional,Tier 1,4,60,80,170,255,definitely,probably,probably,definitely,maybe,probably not
+S0745,student,Tier 2,3,20,40,70,100,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0746,young professional,Tier 1,3,20,50,90,160,definitely,probably,probably,definitely not,definitely not,definitely not
+S0747,student,Tier 1,2,25,55,110,170,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0748,student,Tier 1,2,25,40,80,125,probably,definitely not,probably not,definitely not,definitely not,definitely not
+S0749,young professional,Tier 1,5,35,105,155,210,definitely,definitely,probably,probably,probably not,definitely not
+S0750,young professional,Tier 1,4,60,120,215,305,definitely,probably,definitely,definitely,definitely,probably not
+S0751,family,Tier 1,13,105,150,350,495,definitely,definitely,definitely,definitely,definitely,probably
+S0752,family,Tier 1,7,40,110,160,200,definitely,probably,definitely,maybe,probably not,probably not
+S0753,student,Tier 2,3,15,45,65,90,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0754,student,Tier 2,7,30,60,100,160,probably,probably,definitely,definitely not,definitely not,definitely not
+S0755,young professional,Tier 2,1,35,75,140,190,definitely,definitely,maybe,maybe,probably not,definitely not
+S0756,young professional,Tier 1,4,20,60,100,145,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0757,family,Tier 1,9,70,115,205,305,definitely,definitely,definitely,definitely,maybe,probably
+S0758,family,Tier 2,1,15,40,70,100,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0759,family,Tier 2,10,30,60,130,175,definitely,probably,probably,definitely not,definitely not,definitely not
+S0760,young professional,Tier 1,6,40,105,145,195,definitely,maybe,maybe,maybe,probably,definitely not
+S0761,student,Tier 1,1,15,25,55,85,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S0762,young professional,Tier 1,4,35,60,125,165,definitely,probably,maybe,probably not,probably not,definitely not
+S0763,student,Tier 1,2,25,45,85,150,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0764,young professional,Tier 2,2,20,45,70,90,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0765,student,Tier 1,6,35,95,150,235,definitely,definitely,probably,maybe,probably not,definitely not
+S0766,young professional,Tier 1,7,30,85,135,160,definitely,maybe,maybe,probably not,probably not,definitely not
+S0767,student,Tier 2,4,25,50,85,125,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0768,student,Tier 1,2,35,70,135,185,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0769,family,Tier 1,5,60,110,175,255,definitely,definitely,definitely,maybe,probably,probably not
+S0770,student,Tier 2,3,15,35,55,80,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0771,young professional,Tier 1,8,40,80,115,190,definitely,definitely,maybe,definitely not,probably not,definitely not
+S0772,young professional,Tier 1,8,50,80,160,175,definitely,definitely,probably not,maybe,probably not,definitely not
+S0773,young professional,Tier 1,5,35,70,125,160,definitely,probably,maybe,probably not,maybe,definitely not
+S0774,family,Tier 1,8,50,115,225,280,definitely,definitely,definitely,probably,probably,maybe
+S0775,young professional,Tier 2,6,15,40,75,95,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0776,young professional,Tier 2,7,20,70,100,150,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0777,family,Tier 2,7,65,115,180,210,definitely,definitely,probably,maybe,probably not,probably not
+S0778,young professional,Tier 2,4,25,50,80,110,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0779,family,Tier 1,9,70,120,220,295,definitely,definitely,probably,probably,maybe,probably
+S0780,family,Tier 2,8,40,60,140,185,definitely,probably,probably,probably not,definitely not,definitely not
+S0781,student,Tier 2,7,40,60,115,170,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0782,student,Tier 1,3,15,30,55,75,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0783,family,Tier 1,8,90,200,330,410,definitely,definitely,definitely,definitely,definitely,definitely
+S0784,young professional,Tier 1,7,50,95,165,275,definitely,definitely,definitely,probably not,maybe,definitely not
+S0785,young professional,Tier 1,4,50,100,210,290,definitely,definitely,probably,probably,maybe,probably not
+S0786,student,Tier 1,4,25,65,105,130,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0787,student,Tier 2,4,15,30,60,80,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0788,family,Tier 1,6,115,215,295,465,definitely,definitely,definitely,definitely,definitely,definitely
+S0789,young professional,Tier 1,10,60,100,165,245,definitely,definitely,maybe,maybe,maybe,definitely not
+S0790,young professional,Tier 2,5,35,75,120,195,definitely,probably,probably,maybe,definitely not,definitely not
+S0791,student,Tier 1,4,25,45,65,90,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S0792,young professional,Tier 1,7,60,115,165,230,definitely,definitely,probably,probably,probably,definitely not
+S0793,young professional,Tier 1,4,30,70,95,145,definitely,definitely,probably not,probably not,definitely not,definitely not
+S0794,young professional,Tier 1,7,30,95,125,180,definitely,definitely,definitely,probably,probably not,definitely not
+S0795,young professional,Tier 1,4,35,65,100,155,definitely,definitely,probably,probably not,definitely not,definitely not
+S0796,student,Tier 1,4,70,130,180,245,definitely,definitely,definitely,probably not,probably,maybe
+S0797,young professional,Tier 2,7,45,100,140,205,definitely,probably,maybe,maybe,probably not,definitely not
+S0798,young professional,Tier 1,2,40,95,145,220,definitely,definitely,probably,probably not,probably not,definitely not
+S0799,young professional,Tier 1,3,25,40,75,130,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0800,student,Tier 1,4,35,55,105,155,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0801,student,Tier 2,4,30,75,140,160,definitely,definitely,maybe,definitely not,probably not,definitely not
+S0802,young professional,Tier 1,10,45,115,165,275,definitely,definitely,definitely,probably,maybe,probably not
+S0803,family,Tier 1,5,20,45,95,115,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0804,young professional,Tier 2,8,45,110,145,245,definitely,definitely,definitely,probably,definitely not,definitely not
+S0805,family,Tier 1,6,35,65,130,170,definitely,probably,maybe,probably not,probably not,definitely not
+S0806,student,Tier 1,3,25,65,95,130,definitely,probably,maybe,probably not,definitely not,definitely not
+S0807,young professional,Tier 1,7,50,145,215,285,definitely,definitely,probably,definitely,definitely,probably not
+S0808,family,Tier 1,3,60,105,170,230,definitely,definitely,probably,probably not,probably not,definitely not
+S0809,family,Tier 2,6,30,60,90,145,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0810,student,Tier 1,2,20,35,75,95,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0811,young professional,Tier 1,7,85,200,305,505,definitely,definitely,definitely,definitely,definitely,definitely
+S0812,student,Tier 1,4,25,60,115,160,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0813,young professional,Tier 1,6,80,155,240,420,definitely,definitely,definitely,definitely,definitely,probably
+S0814,family,Tier 1,7,50,125,210,295,definitely,definitely,probably,probably,probably,probably not
+S0815,young professional,Tier 1,7,60,85,155,230,definitely,probably,probably,probably,probably not,probably not
+S0816,young professional,Tier 1,4,40,100,195,285,definitely,definitely,maybe,probably,maybe,maybe
+S0817,young professional,Tier 1,6,40,75,115,155,definitely,definitely,probably,probably not,probably not,definitely not
+S0818,family,Tier 1,4,70,115,230,365,definitely,definitely,definitely,definitely,probably,maybe
+S0819,young professional,Tier 1,7,50,110,150,200,definitely,definitely,definitely,maybe,probably not,definitely not
+S0820,family,Tier 1,5,40,95,190,245,definitely,definitely,definitely,definitely,maybe,maybe
+S0821,family,Tier 1,6,45,85,140,190,definitely,definitely,maybe,probably,maybe,definitely not
+S0822,family,Tier 2,8,55,85,195,280,definitely,definitely,probably,maybe,probably not,probably not
+S0823,student,Tier 1,3,25,70,100,130,definitely,definitely,probably not,definitely not,definitely not,definitely not
+S0824,young professional,Tier 1,2,25,50,85,120,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0825,family,Tier 1,9,80,215,315,415,definitely,definitely,definitely,definitely,definitely,definitely
+S0826,young professional,Tier 1,4,55,130,240,350,definitely,definitely,definitely,definitely,probably,maybe
+S0827,family,Tier 2,7,50,65,125,160,definitely,probably,maybe,probably not,maybe,definitely not
+S0828,young professional,Tier 2,6,60,120,220,305,definitely,definitely,definitely,definitely,probably,probably
+S0829,family,Tier 1,2,35,85,135,170,definitely,definitely,definitely,probably,maybe,definitely not
+S0830,student,Tier 1,5,20,35,50,85,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0831,young professional,Tier 2,6,50,105,150,270,definitely,definitely,definitely,probably,probably,probably not
+S0832,young professional,Tier 2,2,25,70,100,175,definitely,probably,probably not,probably not,definitely not,definitely not
+S0833,family,Tier 2,1,40,55,125,150,definitely,definitely,probably,probably not,probably not,definitely not
+S0834,young professional,Tier 1,6,50,105,180,225,definitely,definitely,probably,maybe,maybe,probably not
+S0835,family,Tier 1,5,65,155,260,365,definitely,definitely,definitely,definitely,probably,maybe
+S0836,young professional,Tier 1,8,70,175,250,405,definitely,definitely,definitely,definitely,probably,maybe
+S0837,family,Tier 2,6,55,85,150,205,definitely,definitely,definitely,maybe,maybe,definitely not
+S0838,student,Tier 2,3,15,25,40,60,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0839,young professional,Tier 2,7,30,65,90,160,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0840,family,Tier 2,3,40,85,110,195,definitely,probably,probably,probably not,definitely not,definitely not
+S0841,student,Tier 1,4,15,35,65,80,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0842,young professional,Tier 1,3,25,55,100,135,definitely,probably,definitely not,probably not,definitely not,definitely not
+S0843,young professional,Tier 1,7,85,135,240,355,definitely,definitely,definitely,probably,definitely,maybe
+S0844,young professional,Tier 1,4,25,50,70,115,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0845,student,Tier 1,2,20,40,70,105,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S0846,young professional,Tier 2,9,45,95,200,265,definitely,definitely,probably,maybe,probably not,maybe
+S0847,young professional,Tier 1,1,25,65,95,125,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0848,student,Tier 1,3,35,70,110,165,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0849,young professional,Tier 1,5,30,50,95,155,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0850,student,Tier 2,5,55,95,155,220,definitely,probably,probably,probably,probably not,definitely not
+S0851,student,Tier 2,3,20,60,90,130,probably,probably not,probably not,definitely not,definitely not,definitely not
+S0852,young professional,Tier 2,11,35,80,130,180,definitely,definitely,probably,probably not,definitely not,definitely not
+S0853,young professional,Tier 2,4,35,75,150,180,definitely,definitely,maybe,maybe,probably not,definitely not
+S0854,young professional,Tier 1,10,50,105,185,260,definitely,definitely,definitely,probably,maybe,definitely not
+S0855,student,Tier 2,5,35,80,115,180,definitely,probably,probably,probably not,definitely not,definitely not
+S0856,young professional,Tier 2,3,20,50,80,110,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0857,family,Tier 1,4,50,70,155,175,definitely,maybe,definitely,probably not,probably not,definitely not
+S0858,family,Tier 1,7,95,200,330,415,definitely,definitely,definitely,definitely,definitely,probably
+S0859,young professional,Tier 2,3,35,65,125,175,definitely,probably,maybe,probably not,definitely not,definitely not
+S0860,student,Tier 2,4,25,40,60,100,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0861,family,Tier 1,7,40,75,140,210,definitely,definitely,probably,probably,definitely not,definitely not
+S0862,student,Tier 1,1,15,30,60,70,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0863,family,Tier 1,2,35,85,120,180,definitely,maybe,probably,probably not,probably not,definitely not
+S0864,young professional,Tier 1,9,60,95,160,225,definitely,definitely,definitely,probably,probably not,definitely not
+S0865,young professional,Tier 1,6,60,190,280,410,definitely,definitely,definitely,definitely,definitely,maybe
+S0866,student,Tier 1,1,20,45,90,120,probably,definitely not,probably not,definitely not,definitely not,definitely not
+S0867,student,Tier 1,3,25,65,100,125,probably,probably,probably not,definitely not,definitely not,definitely not
+S0868,young professional,Tier 1,3,15,50,80,115,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0869,young professional,Tier 1,3,55,105,130,200,definitely,definitely,definitely,probably not,probably not,definitely not
+S0870,young professional,Tier 1,4,20,55,105,150,definitely,maybe,probably not,probably not,definitely not,definitely not
+S0871,young professional,Tier 1,9,45,60,125,160,definitely,probably,probably,definitely not,probably not,definitely not
+S0872,young professional,Tier 1,7,80,195,305,450,definitely,definitely,definitely,definitely,definitely,definitely
+S0873,student,Tier 1,2,25,40,75,85,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0874,family,Tier 1,5,55,120,215,310,definitely,definitely,definitely,probably,maybe,probably not
+S0875,young professional,Tier 2,5,30,75,140,210,definitely,definitely,maybe,maybe,definitely not,definitely not
+S0876,family,Tier 1,8,40,100,170,210,definitely,definitely,maybe,probably,maybe,definitely not
+S0877,young professional,Tier 1,5,35,85,120,190,definitely,definitely,maybe,maybe,definitely not,definitely not
+S0878,family,Tier 1,8,45,125,205,285,definitely,definitely,probably,maybe,maybe,probably not
+S0879,student,Tier 1,4,30,55,90,115,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0880,young professional,Tier 1,3,15,30,55,85,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0881,student,Tier 1,4,20,35,70,85,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0882,young professional,Tier 1,4,35,60,115,160,definitely,definitely,probably,probably not,probably not,definitely not
+S0883,family,Tier 1,4,45,95,165,270,definitely,definitely,definitely,maybe,probably,probably not
+S0884,family,Tier 1,7,40,130,205,305,definitely,definitely,definitely,maybe,probably,probably not
+S0885,family,Tier 1,5,35,85,140,200,definitely,probably,definitely,probably not,maybe,definitely not
+S0886,young professional,Tier 2,3,20,45,65,95,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0887,family,Tier 2,4,30,50,80,145,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0888,young professional,Tier 2,4,20,60,90,115,definitely,probably,definitely not,definitely not,definitely not,definitely not
+S0889,young professional,Tier 1,4,25,50,105,145,definitely,probably not,probably not,probably not,definitely not,definitely not
+S0890,student,Tier 2,4,20,35,55,90,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0891,young professional,Tier 1,5,40,85,145,235,definitely,definitely,probably,probably,maybe,probably not
+S0892,family,Tier 2,6,25,50,110,150,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0893,student,Tier 1,2,10,30,55,75,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0894,young professional,Tier 2,7,25,65,110,165,definitely,probably,maybe,probably not,definitely not,definitely not
+S0895,family,Tier 1,8,80,110,200,335,definitely,definitely,definitely,probably,maybe,probably not
+S0896,young professional,Tier 1,5,45,125,185,310,definitely,definitely,definitely,probably,probably,probably not
+S0897,young professional,Tier 1,4,35,90,125,180,definitely,definitely,maybe,maybe,probably not,definitely not
+S0898,young professional,Tier 2,7,50,95,170,230,definitely,definitely,definitely,probably,maybe,definitely not
+S0899,student,Tier 1,5,25,50,75,105,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0900,young professional,Tier 1,7,75,120,225,360,definitely,definitely,definitely,maybe,definitely,probably not
+S0901,young professional,Tier 1,2,45,80,130,185,definitely,probably,maybe,probably not,probably not,definitely not
+S0902,family,Tier 1,3,35,65,105,160,probably,probably not,maybe,definitely not,definitely not,definitely not
+S0903,young professional,Tier 2,1,20,45,75,125,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S0904,young professional,Tier 1,4,45,85,140,185,definitely,probably,probably,probably not,probably not,definitely not
+S0905,young professional,Tier 1,5,55,95,180,205,definitely,definitely,probably,maybe,probably not,probably not
+S0906,student,Tier 2,3,15,20,45,55,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0907,young professional,Tier 2,4,40,65,125,175,definitely,probably,probably not,maybe,probably not,definitely not
+S0908,family,Tier 1,8,60,110,180,290,definitely,definitely,probably,definitely,maybe,probably not
+S0909,student,Tier 2,2,30,45,85,115,definitely,probably,definitely not,definitely not,definitely not,definitely not
+S0910,family,Tier 1,2,35,60,100,160,probably,probably,maybe,probably not,definitely not,definitely not
+S0911,family,Tier 1,3,15,40,70,85,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S0912,young professional,Tier 1,7,45,85,165,255,definitely,definitely,probably,probably,maybe,definitely not
+S0913,young professional,Tier 1,6,60,105,170,240,definitely,definitely,maybe,maybe,probably not,definitely not
+S0914,family,Tier 1,4,45,115,150,275,definitely,definitely,definitely,probably,maybe,probably not
+S0915,student,Tier 1,1,20,35,65,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0916,young professional,Tier 2,4,15,40,70,80,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0917,young professional,Tier 1,3,45,100,145,235,definitely,definitely,definitely,maybe,probably not,definitely not
+S0918,family,Tier 1,1,25,55,80,120,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0919,student,Tier 2,3,25,65,100,145,definitely,probably,maybe,definitely not,definitely not,definitely not
+S0920,young professional,Tier 1,5,55,100,160,255,definitely,definitely,probably,maybe,maybe,definitely not
+S0921,family,Tier 1,6,45,90,150,225,definitely,definitely,definitely,maybe,probably not,definitely not
+S0922,family,Tier 2,5,55,95,200,255,definitely,definitely,definitely,definitely,probably,probably not
+S0923,young professional,Tier 1,1,30,85,120,190,definitely,maybe,maybe,probably not,definitely not,definitely not
+S0924,young professional,Tier 2,3,20,55,75,105,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0925,family,Tier 1,9,75,115,200,300,definitely,definitely,definitely,definitely,probably,probably not
+S0926,young professional,Tier 1,5,25,35,75,90,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0927,young professional,Tier 1,6,25,55,125,175,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0928,family,Tier 1,4,50,80,140,225,definitely,probably,probably,probably not,probably not,definitely not
+S0929,student,Tier 1,2,15,35,50,65,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0930,young professional,Tier 1,4,80,120,195,305,definitely,definitely,definitely,definitely,definitely,probably
+S0931,young professional,Tier 1,6,50,85,145,215,definitely,definitely,definitely,maybe,maybe,definitely not
+S0932,family,Tier 2,9,30,50,90,160,definitely,maybe,probably not,probably not,definitely not,definitely not
+S0933,family,Tier 1,6,85,170,275,330,definitely,definitely,definitely,definitely,probably,maybe
+S0934,student,Tier 1,3,20,30,55,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0935,student,Tier 2,2,30,60,80,115,definitely,definitely,probably not,definitely not,definitely not,definitely not
+S0936,young professional,Tier 2,5,30,50,100,145,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S0937,young professional,Tier 2,4,30,75,130,190,definitely,maybe,maybe,probably not,definitely not,definitely not
+S0938,student,Tier 1,3,25,45,75,115,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S0939,student,Tier 1,5,20,60,90,130,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0940,young professional,Tier 1,6,75,125,200,325,definitely,definitely,definitely,definitely,maybe,probably not
+S0941,student,Tier 1,7,45,75,135,155,definitely,probably,probably,probably not,probably not,definitely not
+S0942,family,Tier 2,2,10,35,45,70,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0943,young professional,Tier 1,7,35,100,155,200,probably,definitely,definitely,definitely,probably not,probably not
+S0944,student,Tier 1,4,55,100,155,200,definitely,definitely,definitely,definitely,maybe,definitely not
+S0945,young professional,Tier 1,4,55,105,170,250,definitely,definitely,probably,probably,maybe,definitely not
+S0946,student,Tier 2,4,15,30,50,80,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0947,student,Tier 2,1,20,25,55,90,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0948,student,Tier 2,2,15,40,60,85,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S0949,family,Tier 1,6,30,75,110,155,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S0950,family,Tier 1,5,50,75,130,170,definitely,definitely,maybe,probably not,definitely not,definitely not
+S0951,young professional,Tier 2,5,45,90,140,235,definitely,definitely,definitely,probably not,probably not,definitely not
+S0952,student,Tier 1,1,20,40,65,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0953,student,Tier 1,5,50,70,140,175,definitely,definitely,definitely,probably not,probably not,definitely not
+S0954,student,Tier 2,4,20,30,50,80,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0955,family,Tier 1,9,60,180,250,430,definitely,definitely,definitely,definitely,definitely,probably
+S0956,student,Tier 1,6,75,145,225,335,definitely,definitely,definitely,definitely,definitely,maybe
+S0957,young professional,Tier 1,3,35,90,185,200,definitely,definitely,definitely,probably,maybe,definitely not
+S0958,young professional,Tier 1,5,60,105,145,260,definitely,definitely,probably,probably,maybe,definitely not
+S0959,family,Tier 1,7,65,165,265,425,definitely,definitely,definitely,probably,definitely,definitely
+S0960,family,Tier 2,8,50,85,140,170,definitely,definitely,probably,maybe,probably not,definitely not
+S0961,student,Tier 1,2,10,20,35,50,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0962,family,Tier 1,3,40,70,125,170,definitely,definitely,probably,probably,definitely not,definitely not
+S0963,young professional,Tier 2,5,10,35,50,75,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0964,young professional,Tier 1,5,40,125,185,260,definitely,definitely,probably,maybe,maybe,probably not
+S0965,family,Tier 1,7,75,120,235,410,definitely,definitely,definitely,definitely,definitely,maybe
+S0966,student,Tier 1,2,15,40,60,70,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0967,student,Tier 2,4,15,25,45,70,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0968,student,Tier 1,1,15,30,55,75,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0969,young professional,Tier 1,7,35,80,180,210,definitely,definitely,maybe,probably,probably not,definitely not
+S0970,young professional,Tier 1,3,25,65,100,170,probably,probably,maybe,probably not,definitely not,definitely not
+S0971,young professional,Tier 2,5,25,65,105,130,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0972,young professional,Tier 1,9,25,75,125,185,definitely,probably,probably not,probably not,definitely not,definitely not
+S0973,young professional,Tier 2,3,15,45,70,90,probably,probably,definitely not,definitely not,definitely not,definitely not
+S0974,young professional,Tier 2,6,20,60,85,105,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0975,young professional,Tier 1,8,55,105,180,255,definitely,definitely,probably,probably,probably not,definitely not
+S0976,young professional,Tier 1,4,60,125,190,295,definitely,definitely,probably,probably,probably,probably not
+S0977,young professional,Tier 1,2,15,30,60,80,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S0978,young professional,Tier 1,7,65,95,170,270,definitely,probably,definitely,maybe,probably,definitely not
+S0979,student,Tier 1,3,20,25,45,70,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S0980,student,Tier 1,6,25,45,90,120,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0981,young professional,Tier 1,3,45,90,125,210,definitely,definitely,probably,definitely not,definitely not,definitely not
+S0982,family,Tier 1,5,20,45,80,120,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0983,family,Tier 1,10,55,80,190,235,definitely,definitely,definitely,probably,probably not,maybe
+S0984,young professional,Tier 2,5,40,100,190,225,definitely,definitely,definitely,probably,maybe,probably not
+S0985,young professional,Tier 1,1,20,55,85,130,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0986,young professional,Tier 1,3,15,40,55,75,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0987,student,Tier 2,5,40,55,110,160,definitely,probably,probably not,definitely not,definitely not,definitely not
+S0988,young professional,Tier 2,1,20,45,60,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0989,young professional,Tier 1,5,35,65,110,165,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S0990,young professional,Tier 1,2,30,50,75,135,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S0991,family,Tier 1,7,60,120,170,255,definitely,definitely,definitely,definitely,maybe,maybe
+S0992,family,Tier 1,4,70,135,240,305,definitely,definitely,probably,definitely,definitely,maybe
+S0993,family,Tier 2,8,35,100,155,180,definitely,probably,maybe,probably not,definitely not,definitely not
+S0994,young professional,Tier 1,3,25,50,90,125,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S0995,young professional,Tier 1,3,50,90,140,205,definitely,definitely,maybe,definitely not,probably not,definitely not
+S0996,family,Tier 1,5,20,45,85,130,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S0997,student,Tier 1,3,20,35,65,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S0998,student,Tier 1,6,30,50,105,130,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S0999,family,Tier 2,3,15,35,50,80,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S1000,student,Tier 2,2,15,35,60,75,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1001,family,Tier 2,7,40,110,160,255,definitely,definitely,definitely,probably not,probably not,probably not
+S1002,young professional,Tier 1,5,35,65,135,155,definitely,probably,probably,maybe,definitely not,definitely not
+S1003,young professional,Tier 1,3,35,50,85,125,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S1004,young professional,Tier 1,10,75,150,330,410,definitely,definitely,definitely,definitely,definitely,probably
+S1005,young professional,Tier 2,8,45,100,140,205,definitely,definitely,probably,probably not,definitely not,definitely not
+S1006,young professional,Tier 1,10,40,125,175,280,definitely,definitely,definitely,maybe,maybe,probably not
+S1007,young professional,Tier 1,10,60,100,185,270,definitely,definitely,probably,probably,probably not,probably not
+S1008,student,Tier 1,1,20,35,55,85,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1009,young professional,Tier 1,6,65,140,230,300,definitely,definitely,definitely,definitely,maybe,maybe
+S1010,student,Tier 2,3,25,45,90,145,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1011,young professional,Tier 1,3,30,55,95,140,definitely,probably,maybe,definitely not,definitely not,definitely not
+S1012,young professional,Tier 1,6,50,90,140,190,definitely,definitely,probably,maybe,definitely not,definitely not
+S1013,young professional,Tier 2,7,35,95,160,205,definitely,definitely,definitely,probably not,probably not,probably not
+S1014,young professional,Tier 1,5,45,85,155,225,definitely,definitely,definitely,maybe,definitely not,definitely not
+S1015,student,Tier 1,2,15,50,80,120,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S1016,family,Tier 1,8,95,180,240,340,definitely,definitely,definitely,definitely,definitely,probably
+S1017,student,Tier 2,2,15,35,55,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1018,young professional,Tier 1,2,30,75,110,160,definitely,probably,probably,probably not,probably not,definitely not
+S1019,student,Tier 2,1,10,20,35,50,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1020,student,Tier 1,2,25,65,95,120,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1021,family,Tier 2,12,85,155,265,355,definitely,definitely,definitely,definitely,probably,maybe
+S1022,young professional,Tier 2,7,45,130,210,335,definitely,definitely,definitely,definitely,definitely,probably not
+S1023,student,Tier 1,4,20,40,75,110,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S1024,family,Tier 1,7,50,115,215,270,definitely,definitely,definitely,probably,definitely,probably not
+S1025,young professional,Tier 2,6,90,185,260,450,definitely,definitely,definitely,definitely,definitely,definitely
+S1026,young professional,Tier 2,6,20,40,80,115,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S1027,family,Tier 1,9,135,235,370,460,definitely,definitely,definitely,definitely,definitely,definitely
+S1028,family,Tier 1,4,25,55,105,150,definitely,definitely,maybe,definitely not,definitely not,definitely not
+S1029,family,Tier 1,7,85,135,265,390,definitely,definitely,definitely,definitely,definitely,definitely
+S1030,student,Tier 1,1,40,80,135,190,definitely,maybe,maybe,maybe,definitely not,definitely not
+S1031,young professional,Tier 2,5,45,85,165,245,definitely,definitely,maybe,maybe,maybe,probably not
+S1032,family,Tier 1,5,55,80,170,205,definitely,definitely,probably,maybe,probably not,definitely not
+S1033,student,Tier 2,2,15,40,60,85,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S1034,young professional,Tier 1,7,15,40,55,80,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S1035,young professional,Tier 1,2,25,45,95,110,definitely,probably not,maybe,definitely not,definitely not,definitely not
+S1036,family,Tier 1,11,65,110,245,360,definitely,definitely,definitely,definitely,probably,probably not
+S1037,student,Tier 1,4,25,55,85,130,probably,probably not,probably not,definitely not,definitely not,definitely not
+S1038,young professional,Tier 1,8,25,70,90,140,probably,maybe,probably not,definitely not,definitely not,definitely not
+S1039,student,Tier 1,3,25,45,80,120,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S1040,young professional,Tier 1,8,55,165,235,390,definitely,probably,definitely,definitely,definitely,probably
+S1041,family,Tier 1,5,45,95,150,170,definitely,definitely,probably,maybe,definitely not,definitely not
+S1042,student,Tier 1,4,15,45,75,95,maybe,probably not,probably not,definitely not,definitely not,definitely not
+S1043,family,Tier 1,3,35,60,95,115,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1044,family,Tier 1,6,80,150,245,440,definitely,definitely,definitely,definitely,definitely,probably
+S1045,student,Tier 1,4,20,50,100,130,definitely,probably,probably not,definitely not,definitely not,definitely not
+S1046,young professional,Tier 2,3,35,75,125,180,definitely,definitely,probably not,probably not,definitely not,definitely not
+S1047,family,Tier 1,6,50,115,200,280,definitely,definitely,definitely,probably,maybe,probably not
+S1048,young professional,Tier 1,11,65,120,175,265,definitely,definitely,definitely,probably,maybe,definitely not
+S1049,student,Tier 1,1,15,40,75,90,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S1050,student,Tier 2,4,25,50,80,110,definitely,probably,definitely not,definitely not,definitely not,definitely not
+S1051,student,Tier 2,3,15,40,60,85,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S1052,student,Tier 2,3,15,35,65,85,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S1053,young professional,Tier 1,8,70,115,200,275,definitely,definitely,probably,maybe,probably,probably not
+S1054,family,Tier 2,5,50,75,160,190,definitely,definitely,maybe,probably not,probably not,definitely not
+S1055,family,Tier 1,4,40,75,145,200,definitely,definitely,maybe,maybe,probably not,definitely not
+S1056,family,Tier 1,4,50,100,165,305,definitely,definitely,probably,probably,probably not,probably not
+S1057,family,Tier 1,7,55,70,150,185,definitely,maybe,probably,maybe,probably not,definitely not
+S1058,family,Tier 2,4,30,80,130,175,definitely,definitely,probably,maybe,probably not,definitely not
+S1059,student,Tier 2,4,30,50,80,95,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S1060,young professional,Tier 1,3,45,110,145,215,definitely,definitely,probably,probably,maybe,definitely not
+S1061,family,Tier 1,5,50,140,225,300,definitely,definitely,definitely,maybe,definitely,maybe
+S1062,student,Tier 2,1,15,20,35,45,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1063,family,Tier 2,9,110,225,375,475,definitely,definitely,definitely,definitely,definitely,definitely
+S1064,family,Tier 2,5,30,70,100,170,definitely,probably,probably,probably not,definitely not,definitely not
+S1065,young professional,Tier 2,7,50,125,165,285,definitely,probably,maybe,probably,maybe,probably not
+S1066,family,Tier 1,7,25,55,95,150,definitely,probably,probably,definitely not,definitely not,definitely not
+S1067,young professional,Tier 1,8,35,55,110,140,definitely,probably not,probably,probably not,probably not,definitely not
+S1068,young professional,Tier 1,3,20,60,95,125,definitely,probably,probably not,definitely not,definitely not,definitely not
+S1069,young professional,Tier 1,4,50,80,140,180,definitely,definitely,probably,definitely not,probably not,definitely not
+S1070,young professional,Tier 1,7,55,110,185,260,definitely,definitely,probably,definitely,probably not,maybe
+S1071,young professional,Tier 1,3,15,35,60,85,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S1072,young professional,Tier 1,9,55,130,205,300,definitely,definitely,probably,probably,probably,probably not
+S1073,young professional,Tier 1,4,35,75,115,165,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S1074,student,Tier 1,4,30,55,90,100,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S1075,young professional,Tier 1,5,50,110,175,220,definitely,probably,definitely,probably,probably,definitely not
+S1076,young professional,Tier 1,9,130,230,365,585,definitely,definitely,definitely,definitely,definitely,probably
+S1077,family,Tier 2,7,85,165,325,380,definitely,definitely,definitely,definitely,definitely,definitely
+S1078,family,Tier 1,9,90,210,375,535,definitely,definitely,definitely,definitely,definitely,definitely
+S1079,family,Tier 2,7,55,120,180,265,definitely,definitely,definitely,definitely,probably,probably not
+S1080,young professional,Tier 1,2,55,100,200,320,definitely,definitely,definitely,definitely,maybe,maybe
+S1081,student,Tier 1,3,30,90,125,195,probably,definitely,probably,maybe,probably not,definitely not
+S1082,family,Tier 1,2,25,45,75,110,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S1083,young professional,Tier 1,8,45,75,120,145,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S1084,family,Tier 1,5,40,90,175,220,definitely,definitely,maybe,probably,probably not,definitely not
+S1085,student,Tier 1,3,15,40,65,95,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S1086,family,Tier 2,6,40,105,180,215,definitely,definitely,probably,probably,maybe,definitely not
+S1087,young professional,Tier 2,4,65,130,210,295,definitely,definitely,probably,definitely,maybe,probably not
+S1088,student,Tier 1,4,35,50,110,150,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S1089,student,Tier 2,5,25,55,75,100,definitely,maybe,definitely not,definitely not,definitely not,definitely not
+S1090,family,Tier 1,4,35,45,90,115,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1091,young professional,Tier 2,8,35,65,140,195,definitely,definitely,probably,definitely not,probably not,definitely not
+S1092,family,Tier 2,2,15,30,65,85,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S1093,young professional,Tier 1,4,35,50,105,165,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1094,young professional,Tier 1,5,55,110,180,265,definitely,definitely,definitely,maybe,maybe,definitely not
+S1095,student,Tier 2,4,25,40,75,100,probably,definitely not,definitely not,definitely not,definitely not,definitely not
+S1096,young professional,Tier 1,10,75,115,205,320,definitely,definitely,definitely,definitely,maybe,probably not
+S1097,family,Tier 2,6,30,85,125,190,definitely,probably,maybe,probably not,definitely not,definitely not
+S1098,young professional,Tier 1,5,50,95,140,200,definitely,definitely,maybe,probably not,definitely not,definitely not
+S1099,young professional,Tier 1,3,35,75,140,200,definitely,definitely,definitely,probably not,definitely not,definitely not
+S1100,young professional,Tier 1,4,25,55,100,135,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1101,family,Tier 1,6,55,120,180,295,definitely,definitely,definitely,probably,probably not,definitely not
+S1102,student,Tier 2,5,15,35,60,90,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S1103,young professional,Tier 1,3,40,65,120,180,definitely,definitely,probably,probably not,definitely not,definitely not
+S1104,young professional,Tier 2,7,60,120,250,285,definitely,definitely,definitely,probably,definitely,probably
+S1105,family,Tier 1,8,40,75,140,205,definitely,definitely,probably,maybe,probably not,definitely not
+S1106,family,Tier 1,6,105,230,350,470,definitely,definitely,definitely,definitely,definitely,definitely
+S1107,student,Tier 1,4,20,55,90,155,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1108,student,Tier 1,1,20,40,55,90,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S1109,young professional,Tier 1,3,75,155,230,325,definitely,definitely,definitely,probably,definitely,maybe
+S1110,student,Tier 2,8,50,120,195,235,definitely,definitely,definitely,definitely,definitely,probably not
+S1111,student,Tier 1,4,25,60,125,180,definitely,maybe,probably,probably not,definitely not,definitely not
+S1112,family,Tier 2,7,25,50,70,90,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S1113,young professional,Tier 1,7,30,70,140,165,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1114,family,Tier 1,7,55,80,170,200,definitely,probably,probably,maybe,probably not,definitely not
+S1115,family,Tier 2,4,45,80,145,180,definitely,definitely,probably,probably not,probably not,definitely not
+S1116,young professional,Tier 1,7,45,145,220,275,definitely,definitely,definitely,definitely,probably,maybe
+S1117,young professional,Tier 1,5,60,105,140,250,definitely,definitely,probably,definitely,probably not,probably not
+S1118,family,Tier 2,6,75,145,305,350,definitely,definitely,definitely,probably,definitely,maybe
+S1119,student,Tier 1,4,50,110,150,240,definitely,definitely,definitely,probably,maybe,definitely not
+S1120,student,Tier 1,2,30,70,120,170,definitely,definitely,maybe,probably not,definitely not,definitely not
+S1121,student,Tier 1,1,15,20,45,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1122,student,Tier 2,3,30,75,110,150,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1123,young professional,Tier 1,2,20,50,75,105,definitely,probably not,definitely not,definitely not,definitely not,definitely not
+S1124,student,Tier 1,1,20,35,55,85,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1125,young professional,Tier 1,5,45,75,140,205,definitely,definitely,definitely,maybe,probably not,definitely not
+S1126,family,Tier 1,6,50,85,195,245,definitely,probably,definitely,probably,maybe,probably not
+S1127,young professional,Tier 1,4,40,110,160,235,definitely,definitely,definitely,maybe,probably not,probably not
+S1128,student,Tier 1,6,20,40,85,105,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S1129,student,Tier 2,2,10,20,35,60,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1130,young professional,Tier 1,3,45,75,140,185,definitely,probably,probably,probably not,probably not,definitely not
+S1131,young professional,Tier 1,2,45,95,180,240,definitely,definitely,probably,maybe,maybe,definitely not
+S1132,young professional,Tier 2,4,30,70,110,125,definitely,probably not,maybe,definitely not,definitely not,definitely not
+S1133,family,Tier 1,6,40,75,150,200,definitely,definitely,maybe,probably not,definitely not,definitely not
+S1134,young professional,Tier 1,4,25,65,95,125,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1135,student,Tier 2,3,5,15,35,50,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1136,student,Tier 1,3,25,35,65,95,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S1137,family,Tier 1,6,50,85,160,240,definitely,definitely,definitely,definitely,probably,maybe
+S1138,young professional,Tier 2,2,20,25,60,75,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S1139,student,Tier 1,3,25,60,85,135,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S1140,family,Tier 1,5,35,75,120,190,definitely,probably,maybe,probably not,definitely not,definitely not
+S1141,student,Tier 1,2,20,55,85,125,definitely,definitely not,definitely not,definitely not,definitely not,definitely not
+S1142,family,Tier 1,3,30,100,135,235,definitely,definitely,probably,probably,definitely not,definitely not
+S1143,family,Tier 2,3,35,100,160,235,definitely,probably,probably,probably,maybe,definitely not
+S1144,family,Tier 1,7,50,150,200,275,definitely,definitely,definitely,probably,definitely,maybe
+S1145,young professional,Tier 2,8,30,65,90,155,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1146,family,Tier 1,10,85,190,315,425,definitely,definitely,definitely,definitely,definitely,probably
+S1147,family,Tier 1,6,35,65,150,220,definitely,definitely,definitely,probably not,probably not,definitely not
+S1148,student,Tier 2,9,60,100,155,235,definitely,definitely,probably,maybe,maybe,definitely not
+S1149,young professional,Tier 1,3,25,60,115,145,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S1150,student,Tier 2,2,20,30,55,70,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1151,student,Tier 2,6,45,90,165,240,definitely,definitely,probably,maybe,maybe,definitely not
+S1152,family,Tier 1,7,40,100,170,205,definitely,definitely,definitely,probably not,probably not,definitely not
+S1153,student,Tier 2,1,5,20,30,40,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1154,family,Tier 1,8,40,70,135,185,definitely,definitely,probably,maybe,maybe,definitely not
+S1155,family,Tier 1,9,35,110,165,220,definitely,definitely,definitely,probably,maybe,definitely not
+S1156,family,Tier 1,4,30,65,105,175,definitely,probably not,probably not,definitely not,probably not,definitely not
+S1157,student,Tier 1,4,15,45,55,95,maybe,probably not,definitely not,definitely not,definitely not,definitely not
+S1158,young professional,Tier 2,9,50,110,165,265,definitely,definitely,definitely,probably,probably not,probably not
+S1159,young professional,Tier 1,2,30,75,110,175,definitely,probably,probably,definitely not,definitely not,definitely not
+S1160,family,Tier 1,4,25,65,95,170,definitely,definitely,maybe,probably not,definitely not,definitely not
+S1161,young professional,Tier 1,5,40,90,160,220,definitely,definitely,probably,maybe,probably not,definitely not
+S1162,young professional,Tier 1,3,35,90,140,160,definitely,probably,probably,probably not,definitely not,definitely not
+S1163,student,Tier 2,3,10,35,45,75,definitely not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1164,young professional,Tier 2,5,25,45,65,95,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S1165,student,Tier 2,4,35,60,110,135,definitely,probably not,probably not,definitely not,definitely not,definitely not
+S1166,young professional,Tier 2,2,35,65,105,125,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1167,family,Tier 1,5,75,115,230,305,definitely,definitely,definitely,definitely,probably,maybe
+S1168,family,Tier 1,8,65,215,275,495,definitely,definitely,definitely,definitely,definitely,definitely
+S1169,young professional,Tier 2,5,15,30,70,95,maybe,definitely not,definitely not,definitely not,definitely not,definitely not
+S1170,family,Tier 1,8,60,125,185,310,definitely,definitely,definitely,definitely,probably,probably not
+S1171,young professional,Tier 1,3,40,80,125,185,definitely,definitely,probably,maybe,definitely not,definitely not
+S1172,student,Tier 2,3,15,30,55,65,probably not,definitely not,definitely not,definitely not,definitely not,definitely not
+S1173,family,Tier 1,9,100,140,260,385,definitely,definitely,definitely,definitely,definitely,maybe
+S1174,young professional,Tier 2,7,30,50,115,150,definitely,maybe,maybe,definitely not,definitely not,definitely not
+S1175,family,Tier 1,7,70,200,250,365,definitely,definitely,definitely,definitely,definitely,probably
+S1176,family,Tier 1,9,45,145,185,320,definitely,definitely,definitely,definitely,probably,maybe
+S1177,family,Tier 1,6,100,195,295,425,definitely,definitely,definitely,definitely,definitely,definitely
+S1178,young professional,Tier 1,5,55,135,215,325,definitely,definitely,definitely,definitely,probably,probably not
+S1179,young professional,Tier 1,2,35,65,125,140,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1180,student,Tier 1,5,35,75,130,190,definitely,probably,probably,probably,probably not,probably not
+S1181,student,Tier 1,4,30,65,110,150,definitely,probably,maybe,probably not,definitely not,definitely not
+S1182,family,Tier 2,3,45,115,175,225,definitely,probably,definitely,probably,maybe,definitely not
+S1183,family,Tier 1,8,40,115,170,235,definitely,definitely,definitely,probably,maybe,definitely not
+S1184,family,Tier 1,10,40,120,185,225,definitely,definitely,maybe,probably,maybe,maybe
+S1185,young professional,Tier 1,5,40,100,170,225,definitely,maybe,probably,probably,probably not,definitely not
+S1186,young professional,Tier 2,7,55,85,140,230,definitely,definitely,probably,probably not,maybe,definitely not
+S1187,student,Tier 1,5,45,100,190,250,definitely,definitely,definitely,probably,maybe,definitely not
+S1188,young professional,Tier 1,5,35,70,110,125,definitely,maybe,probably not,definitely not,definitely not,definitely not
+S1189,student,Tier 1,7,40,75,145,210,definitely,definitely,maybe,maybe,probably not,definitely not
+S1190,young professional,Tier 2,2,30,60,100,110,probably,maybe,definitely not,definitely not,definitely not,definitely not
+S1191,young professional,Tier 1,4,60,100,195,270,definitely,definitely,probably,maybe,probably not,probably not
+S1192,young professional,Tier 1,6,65,150,200,305,definitely,definitely,maybe,definitely,definitely,maybe
+S1193,young professional,Tier 1,4,40,60,110,155,definitely,probably,maybe,definitely not,definitely not,definitely not
+S1194,young professional,Tier 1,3,30,75,135,210,definitely,probably,probably,maybe,probably not,definitely not
+S1195,young professional,Tier 2,8,35,60,130,165,definitely,probably,probably,probably not,definitely not,definitely not
+S1196,young professional,Tier 1,9,50,75,145,200,definitely,probably,probably,probably not,probably not,definitely not
+S1197,student,Tier 1,6,30,75,145,215,definitely,definitely,probably,maybe,probably not,definitely not
+S1198,family,Tier 1,3,45,90,140,205,definitely,definitely,maybe,probably not,probably not,definitely not
+S1199,student,Tier 1,1,25,40,60,90,probably,probably not,definitely not,definitely not,definitely not,definitely not
+S1200,young professional,Tier 1,3,45,110,140,225,definitely,definitely,definitely,maybe,maybe,definitely not
